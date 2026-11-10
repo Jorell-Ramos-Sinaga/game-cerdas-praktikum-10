@@ -1,0 +1,3457 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://darlis-its.github.io/materi-gim-cerdas/#37-membuat-dungeongeneratorcs
+Subject: Materi Kuliah
+Date: Tue, 10 Nov 2026 14:36:56 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--9pmeuc7mrKiknLSJAPszqho4jtOOFpOjFm8cCB03mW----"
+
+
+------MultipartBoundary--9pmeuc7mrKiknLSJAPszqho4jtOOFpOjFm8cCB03mW----
+Content-Type: text/html
+Content-ID: <frame-00398EEC3257D1EB9009F9BA2F0168CC@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://darlis-its.github.io/materi-gim-cerdas/#37-membuat-dungeongeneratorcs
+
+<!DOCTYPE html><html lang=3D"id" data-theme=3D"dark" data-background=3D"on"=
+ style=3D"--learning-bg-image: url(https://darlis-its.github.io/materi-gim-=
+cerdas/assets/dark-bg-DIVyMODs.webp);"><head><meta http-equiv=3D"Content-Ty=
+pe" content=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Materi Kuliah</title>
+    <link rel=3D"icon" href=3D"https://darlis-its.github.io/materi-gim-cerd=
+as/assets/favicon-Cjcz0nfk.ico" sizes=3D"any">
+    <link rel=3D"preconnect" href=3D"https://fonts.googleapis.com/">
+    <link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/" crossorigi=
+n=3D"">
+    <link href=3D"https://fonts.googleapis.com/css2?family=3DMaterial+Symbo=
+ls+Rounded:opsz,wght,FILL,GRAD@24,500,0,0&amp;display=3Dswap" rel=3D"styles=
+heet">
+   =20
+    <link rel=3D"stylesheet" crossorigin=3D"" href=3D"https://darlis-its.gi=
+thub.io/materi-gim-cerdas/assets/index-BDO1nCGl.css">
+  </head>
+  <body>
+    <div id=3D"root"><div class=3D"app-shell sidebar-collapsed background-e=
+nabled"><aside class=3D"sidebar collapsed"><button class=3D"brand"><span cl=
+ass=3D"brand-icon"><span class=3D"material-symbols-rounded icon">school</sp=
+an></span><strong class=3D"brand-title">Game Cerdas</strong></button><butto=
+n class=3D"nav-item"><span class=3D"material-symbols-rounded icon">dashboar=
+d</span> <span class=3D"nav-text">Beranda</span></button><button class=3D"n=
+av-item"><span class=3D"material-symbols-rounded icon">assignment</span> <s=
+pan class=3D"nav-text">RPS</span></button><div class=3D"nav-label">Pertemua=
+n</div><button class=3D"nav-item"><span class=3D"nav-number">00</span><span=
+ class=3D"nav-text">Rencana Pembelajaran, CPMK, dan Ringkasan Materi Semest=
+er</span></button><button class=3D"nav-item"><span class=3D"nav-number">01<=
+/span><span class=3D"nav-text">Introduction to Intelligent Games &amp; Game=
+ AI</span></button><button class=3D"nav-item"><span class=3D"nav-number">02=
+</span><span class=3D"nav-text">AI Architecture &amp; Game Agent</span></bu=
+tton><button class=3D"nav-item"><span class=3D"nav-number">03</span><span c=
+lass=3D"nav-text">Movement AI &amp; Steering Behaviors</span></button><butt=
+on class=3D"nav-item"><span class=3D"nav-number">04</span><span class=3D"na=
+v-text">Pathfinding &amp; Navigation</span></button><button class=3D"nav-it=
+em"><span class=3D"nav-number">05</span><span class=3D"nav-text">Finite Sta=
+te Machine</span></button><button class=3D"nav-item"><span class=3D"nav-num=
+ber">06</span><span class=3D"nav-text">Behavior Tree &amp; Utility-Based AI=
+</span></button><button class=3D"nav-item"><span class=3D"nav-number">06</s=
+pan><span class=3D"nav-text">Behavior Tree &amp; Utility-Based AI</span></b=
+utton><button class=3D"nav-item"><span class=3D"nav-number">07</span><span =
+class=3D"nav-text">Game AI Integration &amp; Tactical AI</span></button><bu=
+tton class=3D"nav-item"><span class=3D"nav-number">07</span><span class=3D"=
+nav-text">Game AI Integration &amp; Tactical AI</span></button><button clas=
+s=3D"nav-item"><span class=3D"nav-number">08</span><span class=3D"nav-text"=
+>UTS / Mini Project</span></button><button class=3D"nav-item"><span class=
+=3D"nav-number">09</span><span class=3D"nav-text">Procedural Content Genera=
+tion</span></button><button class=3D"active nav-item"><span class=3D"nav-nu=
+mber">10</span><span class=3D"nav-text">PCG for Level &amp; Dungeon Generat=
+ion</span></button><button class=3D"nav-item"><span class=3D"nav-number">11=
+</span><span class=3D"nav-text">Dynamic Difficulty Adjustment</span></butto=
+n><button class=3D"nav-item"><span class=3D"nav-number">12</span><span clas=
+s=3D"nav-text">Player Modeling &amp; Adaptive Game AI</span></button><butto=
+n class=3D"nav-item"><span class=3D"nav-number">13</span><span class=3D"nav=
+-text">Machine Learning for Games</span></button><button class=3D"nav-item"=
+><span class=3D"nav-number">14</span><span class=3D"nav-text">Reinforcement=
+ Learning with Unity ML-Agents</span></button><button class=3D"nav-item"><s=
+pan class=3D"nav-number">15</span><span class=3D"nav-text">Advanced Game AI=
+ &amp; Final Project Development</span></button><button class=3D"nav-item">=
+<span class=3D"nav-number">16</span><span class=3D"nav-text">UAS =E2=80=94 =
+Intelligent Game Project</span></button></aside><main class=3D"main"><heade=
+r class=3D"topbar"><button class=3D"icon-button" aria-label=3D"Toggle sideb=
+ar" title=3D"Expand sidebar"><span class=3D"material-symbols-rounded icon">=
+menu</span></button><div><p>2026/2027 Gasal</p><h1>Game Cerdas</h1></div><d=
+iv class=3D"topbar-actions"><label class=3D"search"><span class=3D"material=
+-symbols-rounded icon">search</span><input placeholder=3D"Cari materi..." v=
+alue=3D""></label><button class=3D"icon-button" aria-label=3D"Toggle dark l=
+ight mode" title=3D"Light mode"><span class=3D"material-symbols-rounded ico=
+n">light_mode</span></button><button class=3D"icon-button" aria-label=3D"To=
+ggle background" title=3D"Matikan background"><span class=3D"material-symbo=
+ls-rounded icon">wallpaper</span></button></div></header><section class=3D"=
+content"><div class=3D"page-title"><div><p>Pertemuan 10</p><h2>PCG for Leve=
+l &amp; Dungeon Generation</h2></div></div><div class=3D"meeting-mode-row">=
+<div class=3D"segmented content-mode-toggle meeting-mode-toggle"><button cl=
+ass=3D""><span class=3D"material-symbols-rounded icon">auto_stories</span> =
+Slide</button><button class=3D"selected"><span class=3D"material-symbols-ro=
+unded icon">terminal</span> Praktikum</button></div></div><div class=3D"rea=
+der-layout"><aside class=3D"outline"><div class=3D"outline-title"><span cla=
+ss=3D"material-symbols-rounded icon">format_list_bulleted</span> Outline</d=
+iv><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#modul-praktik=
+um-10">MODUL PRAKTIKUM 10</a><a href=3D"https://darlis-its.github.io/materi=
+-gim-cerdas/#procedural-dungeon-generation-dengan-bsp-di-unity-6">PROCEDURA=
+L DUNGEON GENERATION DENGAN BSP DI UNITY 6</a><a href=3D"https://darlis-its=
+.github.io/materi-gim-cerdas/#1-tujuan-praktikum">1. Tujuan Praktikum</a><a=
+ href=3D"https://darlis-its.github.io/materi-gim-cerdas/#2-capaian-pembelaj=
+aran-praktikum">2. Capaian Pembelajaran Praktikum</a><a href=3D"https://dar=
+lis-its.github.io/materi-gim-cerdas/#3-hasil-akhir-praktikum">3. Hasil Akhi=
+r Praktikum</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#4=
+-mengapa-menggunakan-bsp">4. Mengapa Menggunakan BSP?</a><a href=3D"https:/=
+/darlis-its.github.io/materi-gim-cerdas/#binary-space-partitioning-bsp">Bin=
+ary Space Partitioning / BSP</a><a href=3D"https://darlis-its.github.io/mat=
+eri-gim-cerdas/#5-gambaran-arsitektur-sistem">5. Gambaran Arsitektur Sistem=
+</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#6-istilah-te=
+knis-yang-digunakan">6. Istilah Teknis yang Digunakan</a><a href=3D"https:/=
+/darlis-its.github.io/materi-gim-cerdas/#61-gameobject">6.1 GameObject</a><=
+a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#7-component">7. C=
+omponent</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#8-tr=
+ansform">8. Transform</a><a href=3D"https://darlis-its.github.io/materi-gim=
+-cerdas/#9-scene">9. Scene</a><a href=3D"https://darlis-its.github.io/mater=
+i-gim-cerdas/#10-prefab">10. Prefab</a><a href=3D"https://darlis-its.github=
+.io/materi-gim-cerdas/#11-instantiate">11. Instantiate</a><a href=3D"https:=
+//darlis-its.github.io/materi-gim-cerdas/#12-quaternionidentity">12. Quater=
+nion.identity</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/=
+#13-parent-dan-child">13. Parent dan Child</a><a href=3D"https://darlis-its=
+.github.io/materi-gim-cerdas/#14-serializefield">14. SerializeField</a><a h=
+ref=3D"https://darlis-its.github.io/materi-gim-cerdas/#15-array-dua-dimensi=
+">15. Array Dua Dimensi</a><a href=3D"https://darlis-its.github.io/materi-g=
+im-cerdas/#16-enum">16. Enum</a><a href=3D"https://darlis-its.github.io/mat=
+eri-gim-cerdas/#17-vector2int">17. Vector2Int</a><a href=3D"https://darlis-=
+its.github.io/materi-gim-cerdas/#18-vector3">18. Vector3</a><a href=3D"http=
+s://darlis-its.github.io/materi-gim-cerdas/#19-seed">19. Seed</a><a href=3D=
+"https://darlis-its.github.io/materi-gim-cerdas/#20-recursive-function">20.=
+ Recursive Function</a><a href=3D"https://darlis-its.github.io/materi-gim-c=
+erdas/#21-leaf-pada-bsp">21. Leaf pada BSP</a><a href=3D"https://darlis-its=
+.github.io/materi-gim-cerdas/#22-corridor">22. Corridor</a><a href=3D"https=
+://darlis-its.github.io/materi-gim-cerdas/#23-persiapan-project-unity">23. =
+Persiapan Project Unity</a><a href=3D"https://darlis-its.github.io/materi-g=
+im-cerdas/#24-nama-project-yang-direkomendasikan">24. Nama Project yang Dir=
+ekomendasikan</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/=
+#nama-utama">Nama utama</a><a href=3D"https://darlis-its.github.io/materi-g=
+im-cerdas/#25-membuat-project">25. Membuat Project</a><a href=3D"https://da=
+rlis-its.github.io/materi-gim-cerdas/#26-struktur-folder-project">26. Struk=
+tur Folder Project</a><a href=3D"https://darlis-its.github.io/materi-gim-ce=
+rdas/#27-membuat-scene">27. Membuat Scene</a><a href=3D"https://darlis-its.=
+github.io/materi-gim-cerdas/#28-membuat-floor-prefab">28. Membuat Floor Pre=
+fab</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#29-membua=
+t-wall-prefab">29. Membuat Wall Prefab</a><a href=3D"https://darlis-its.git=
+hub.io/materi-gim-cerdas/#30-membuat-goal-prefab">30. Membuat Goal Prefab</=
+a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#31-membuat-til=
+etypecs">31. Membuat TileType.cs</a><a href=3D"https://darlis-its.github.io=
+/materi-gim-cerdas/#penjelasan">Penjelasan</a><a href=3D"https://darlis-its=
+.github.io/materi-gim-cerdas/#32-membuat-dungeonroomcs">32. Membuat Dungeon=
+Room.cs</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#33-pe=
+njelasan-dungeonroom">33. Penjelasan DungeonRoom</a><a href=3D"https://darl=
+is-its.github.io/materi-gim-cerdas/#34-property-center">34. Property Center=
+</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#35-membuat-b=
+spnodecs">35. Membuat BSPNode.cs</a><a href=3D"https://darlis-its.github.io=
+/materi-gim-cerdas/#36-struktur-bsp">36. Struktur BSP</a><a href=3D"https:/=
+/darlis-its.github.io/materi-gim-cerdas/#37-membuat-dungeongeneratorcs">37.=
+ Membuat DungeonGenerator.cs</a><a href=3D"https://darlis-its.github.io/mat=
+eri-gim-cerdas/#38-header-script-dungeongenerator">38. Header Script Dungeo=
+nGenerator</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#39=
+-parameter-dungeon">39. Parameter Dungeon</a><a href=3D"https://darlis-its.=
+github.io/materi-gim-cerdas/#40-penjelasan-parameter">40. Penjelasan Parame=
+ter</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#mapwidth"=
+>mapWidth</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#map=
+height">mapHeight</a><a href=3D"https://darlis-its.github.io/materi-gim-cer=
+das/#tilesize">tileSize</a><a href=3D"https://darlis-its.github.io/materi-g=
+im-cerdas/#minleafsize">minLeafSize</a><a href=3D"https://darlis-its.github=
+.io/materi-gim-cerdas/#maxleafsize">maxLeafSize</a><a href=3D"https://darli=
+s-its.github.io/materi-gim-cerdas/#minroomsize">minRoomSize</a><a href=3D"h=
+ttps://darlis-its.github.io/materi-gim-cerdas/#roommargin">roomMargin</a><a=
+ href=3D"https://darlis-its.github.io/materi-gim-cerdas/#41-referensi-prefa=
+b">41. Referensi Prefab</a><a href=3D"https://darlis-its.github.io/materi-g=
+im-cerdas/#42-spawn-settings">42. Spawn Settings</a><a href=3D"https://darl=
+is-its.github.io/materi-gim-cerdas/#43-internal-data">43. Internal Data</a>=
+<a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#44-fungsi-start"=
+>44. Fungsi Start</a><a href=3D"https://darlis-its.github.io/materi-gim-cer=
+das/#45-fungsi-generatedungeon">45. Fungsi GenerateDungeon</a><a href=3D"ht=
+tps://darlis-its.github.io/materi-gim-cerdas/#46-setup-seed">46. Setup Seed=
+</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#47-initializ=
+e-grid">47. Initialize Grid</a><a href=3D"https://darlis-its.github.io/mate=
+ri-gim-cerdas/#48-create-bsp">48. Create BSP</a><a href=3D"https://darlis-i=
+ts.github.io/materi-gim-cerdas/#49-splitnode">49. SplitNode</a><a href=3D"h=
+ttps://darlis-its.github.io/materi-gim-cerdas/#50-mengapa-menggunakan-rasio=
+">50. Mengapa Menggunakan Rasio?</a><a href=3D"https://darlis-its.github.io=
+/materi-gim-cerdas/#51-split-horizontal">51. Split Horizontal</a><a href=3D=
+"https://darlis-its.github.io/materi-gim-cerdas/#52-split-vertical">52. Spl=
+it Vertical</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#5=
+3-visualisasi-bsp">53. Visualisasi BSP</a><a href=3D"https://darlis-its.git=
+hub.io/materi-gim-cerdas/#54-createrooms">54. CreateRooms</a><a href=3D"htt=
+ps://darlis-its.github.io/materi-gim-cerdas/#55-carveroom">55. CarveRoom</a=
+><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#56-isinsidegrid=
+">56. IsInsideGrid</a><a href=3D"https://darlis-its.github.io/materi-gim-ce=
+rdas/#57-membuat-corridor">57. Membuat Corridor</a><a href=3D"https://darli=
+s-its.github.io/materi-gim-cerdas/#58-createcorridors">58. CreateCorridors<=
+/a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#59-create-l-c=
+orridor">59. Create L Corridor</a><a href=3D"https://darlis-its.github.io/m=
+ateri-gim-cerdas/#60-corridor-horizontal">60. Corridor Horizontal</a><a hre=
+f=3D"https://darlis-its.github.io/materi-gim-cerdas/#61-corridor-vertical">=
+61. Corridor Vertical</a><a href=3D"https://darlis-its.github.io/materi-gim=
+-cerdas/#62-mengapa-corridor-berbentuk-l">62. Mengapa Corridor Berbentuk L?=
+</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#63-start-dan=
+-goal">63. Start dan Goal</a><a href=3D"https://darlis-its.github.io/materi=
+-gim-cerdas/#64-versi-startgoal-yang-lebih-baik">64. Versi Start=E2=80=93Go=
+al yang Lebih Baik</a><a href=3D"https://darlis-its.github.io/materi-gim-ce=
+rdas/#65-mengubah-grid-menjadi-scene-unity">65. Mengubah Grid menjadi Scene=
+ Unity</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#66-mem=
+buat-levelroot">66. Membuat LevelRoot</a><a href=3D"https://darlis-its.gith=
+ub.io/materi-gim-cerdas/#67-builddungeon">67. BuildDungeon</a><a href=3D"ht=
+tps://darlis-its.github.io/materi-gim-cerdas/#68-gridtoworld">68. GridToWor=
+ld</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#69-optimas=
+i-wall">69. Optimasi Wall</a><a href=3D"https://darlis-its.github.io/materi=
+-gim-cerdas/#70-mengapa-optimasi-ini-penting">70. Mengapa Optimasi Ini Pent=
+ing?</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#71-spawn=
+-gameplay-objects">71. Spawn Gameplay Objects</a><a href=3D"https://darlis-=
+its.github.io/materi-gim-cerdas/#72-membuat-player">72. Membuat Player</a><=
+a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#73-simpleplayerco=
+ntroller">73. SimplePlayerController</a><a href=3D"https://darlis-its.githu=
+b.io/materi-gim-cerdas/#74-catatan-input-unity">74. Catatan Input Unity</a>=
+<a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#75-spawn-player"=
+>75. Spawn Player</a><a href=3D"https://darlis-its.github.io/materi-gim-cer=
+das/#76-membuat-enemy-prefab">76. Membuat Enemy Prefab</a><a href=3D"https:=
+//darlis-its.github.io/materi-gim-cerdas/#77-simpleenemy">77. SimpleEnemy</=
+a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#78-random-floo=
+r-position">78. Random Floor Position</a><a href=3D"https://darlis-its.gith=
+ub.io/materi-gim-cerdas/#79-spawn-enemy">79. Spawn Enemy</a><a href=3D"http=
+s://darlis-its.github.io/materi-gim-cerdas/#80-constraint-pada-enemy">80. C=
+onstraint pada Enemy</a><a href=3D"https://darlis-its.github.io/materi-gim-=
+cerdas/#constraint-based-pcg">Constraint-Based PCG</a><a href=3D"https://da=
+rlis-its.github.io/materi-gim-cerdas/#81-membuat-item-prefab">81. Membuat I=
+tem Prefab</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#82=
+-spawn-item">82. Spawn Item</a><a href=3D"https://darlis-its.github.io/mate=
+ri-gim-cerdas/#83-clear-dungeon">83. Clear Dungeon</a><a href=3D"https://da=
+rlis-its.github.io/materi-gim-cerdas/#84-menyiapkan-dungeongenerator-di-ins=
+pector">84. Menyiapkan DungeonGenerator di Inspector</a><a href=3D"https://=
+darlis-its.github.io/materi-gim-cerdas/#85-mengatur-kamera">85. Mengatur Ka=
+mera</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#86-pengu=
+jian-pertama">86. Pengujian Pertama</a><a href=3D"https://darlis-its.github=
+.io/materi-gim-cerdas/#87-pengujian-seed">87. Pengujian Seed</a><a href=3D"=
+https://darlis-its.github.io/materi-gim-cerdas/#88-mengapa-seed-sangat-pent=
+ing">88. Mengapa Seed Sangat Penting?</a><a href=3D"https://darlis-its.gith=
+ub.io/materi-gim-cerdas/#89-debug-visualization-dengan-gizmos">89. Debug Vi=
+sualization dengan Gizmos</a><a href=3D"https://darlis-its.github.io/materi=
+-gim-cerdas/#90-apa-itu-gizmos">90. Apa Itu Gizmos?</a><a href=3D"https://d=
+arlis-its.github.io/materi-gim-cerdas/#91-validasi-dungeon">91. Validasi Du=
+ngeon</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#92-vali=
+dasi-sederhana">92. Validasi Sederhana</a><a href=3D"https://darlis-its.git=
+hub.io/materi-gim-cerdas/#93-validasi-konektivitas-dengan-bfs">93. Validasi=
+ Konektivitas dengan BFS</a><a href=3D"https://darlis-its.github.io/materi-=
+gim-cerdas/#breadth-first-search">Breadth-First Search</a><a href=3D"https:=
+//darlis-its.github.io/materi-gim-cerdas/#94-mengintegrasikan-validasi">94.=
+ Mengintegrasikan Validasi</a><a href=3D"https://darlis-its.github.io/mater=
+i-gim-cerdas/#95-hubungan-dengan-materi-pathfinding">95. Hubungan dengan Ma=
+teri Pathfinding</a><a href=3D"https://darlis-its.github.io/materi-gim-cerd=
+as/#96-constraint-based-generation">96. Constraint-Based Generation</a><a h=
+ref=3D"https://darlis-its.github.io/materi-gim-cerdas/#97-menambahkan-regen=
+eration">97. Menambahkan Regeneration</a><a href=3D"https://darlis-its.gith=
+ub.io/materi-gim-cerdas/#98-catatan-penting-cleardungeon">98. Catatan Penti=
+ng ClearDungeon</a><a href=3D"https://darlis-its.github.io/materi-gim-cerda=
+s/#99-pengembangan-navmesh">99. Pengembangan: NavMesh</a><a href=3D"https:/=
+/darlis-its.github.io/materi-gim-cerdas/#100-mengapa-navmesh-cocok-untuk-bs=
+p">100. Mengapa NavMesh Cocok untuk BSP?</a><a href=3D"https://darlis-its.g=
+ithub.io/materi-gim-cerdas/#101-hierarchy-akhir">101. Hierarchy Akhir</a><a=
+ href=3D"https://darlis-its.github.io/materi-gim-cerdas/#102-eksperimen-1-s=
+eed">102. Eksperimen 1 =E2=80=94 Seed</a><a href=3D"https://darlis-its.gith=
+ub.io/materi-gim-cerdas/#103-eksperimen-2-min-leaf-size">103. Eksperimen 2 =
+=E2=80=94 Min Leaf Size</a><a href=3D"https://darlis-its.github.io/materi-g=
+im-cerdas/#104-eksperimen-3-room-margin">104. Eksperimen 3 =E2=80=94 Room M=
+argin</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#105-eks=
+perimen-4-ukuran-dungeon">105. Eksperimen 4 =E2=80=94 Ukuran Dungeon</a><a =
+href=3D"https://darlis-its.github.io/materi-gim-cerdas/#106-eksperimen-5-en=
+emy-density">106. Eksperimen 5 =E2=80=94 Enemy Density</a><a href=3D"https:=
+//darlis-its.github.io/materi-gim-cerdas/#107-pengembangan-enemy-density">1=
+07. Pengembangan Enemy Density</a><a href=3D"https://darlis-its.github.io/m=
+ateri-gim-cerdas/#108-eksperimen-6-startgoal">108. Eksperimen 6 =E2=80=94 S=
+tart/Goal</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#str=
+ategi-a">Strategi A</a><a href=3D"https://darlis-its.github.io/materi-gim-c=
+erdas/#strategi-b">Strategi B</a><a href=3D"https://darlis-its.github.io/ma=
+teri-gim-cerdas/#strategi-c">Strategi C</a><a href=3D"https://darlis-its.gi=
+thub.io/materi-gim-cerdas/#109-kesalahan-umum-1">109. Kesalahan Umum 1</a><=
+a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#dungeon-tidak-mun=
+cul">Dungeon tidak muncul</a><a href=3D"https://darlis-its.github.io/materi=
+-gim-cerdas/#110-kesalahan-umum-2">110. Kesalahan Umum 2</a><a href=3D"http=
+s://darlis-its.github.io/materi-gim-cerdas/#nullreferenceexception">NullRef=
+erenceException</a><a href=3D"https://darlis-its.github.io/materi-gim-cerda=
+s/#111-kesalahan-umum-3">111. Kesalahan Umum 3</a><a href=3D"https://darlis=
+-its.github.io/materi-gim-cerdas/#indexoutofrangeexception">IndexOutOfRange=
+Exception</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#112=
+-kesalahan-umum-4">112. Kesalahan Umum 4</a><a href=3D"https://darlis-its.g=
+ithub.io/materi-gim-cerdas/#room-terlalu-sedikit">Room terlalu sedikit</a><=
+a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#113-kesalahan-umu=
+m-5">113. Kesalahan Umum 5</a><a href=3D"https://darlis-its.github.io/mater=
+i-gim-cerdas/#dungeon-terlalu-padat">Dungeon terlalu padat</a><a href=3D"ht=
+tps://darlis-its.github.io/materi-gim-cerdas/#114-kesalahan-umum-6">114. Ke=
+salahan Umum 6</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas=
+/#corridor-terlalu-sempit">Corridor terlalu sempit</a><a href=3D"https://da=
+rlis-its.github.io/materi-gim-cerdas/#115-corridor-width-2">115. Corridor W=
+idth 2</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#116-pe=
+ngembangan-boss-room">116. Pengembangan Boss Room</a><a href=3D"https://dar=
+lis-its.github.io/materi-gim-cerdas/#117-pengembangan-treasure">117. Pengem=
+bangan Treasure</a><a href=3D"https://darlis-its.github.io/materi-gim-cerda=
+s/#118-hard-constraint-dan-soft-constraint">118. Hard Constraint dan Soft C=
+onstraint</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#har=
+d-constraint">Hard Constraint</a><a href=3D"https://darlis-its.github.io/ma=
+teri-gim-cerdas/#soft-constraint">Soft Constraint</a><a href=3D"https://dar=
+lis-its.github.io/materi-gim-cerdas/#119-generate-and-test">119. Generate-a=
+nd-Test</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#120-m=
+etrics-dungeon">120. Metrics Dungeon</a><a href=3D"https://darlis-its.githu=
+b.io/materi-gim-cerdas/#121-mengapa-metrics-penting">121. Mengapa Metrics P=
+enting?</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#122-h=
+ubungan-dengan-dynamic-difficulty-adjustment">122. Hubungan dengan Dynamic =
+Difficulty Adjustment</a><a href=3D"https://darlis-its.github.io/materi-gim=
+-cerdas/#123-perbandingan-dengan-random-walk">123. Perbandingan dengan Rand=
+om Walk</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#bsp">=
+BSP</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#random-wa=
+lk">Random Walk</a><a href=3D"https://darlis-its.github.io/materi-gim-cerda=
+s/#124-perbandingan-dengan-cellular-automata">124. Perbandingan dengan Cell=
+ular Automata</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/=
+#bsp">BSP</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#cel=
+lular-automata">Cellular Automata</a><a href=3D"https://darlis-its.github.i=
+o/materi-gim-cerdas/#125-rekomendasi-tingkat-praktikum">125. Rekomendasi Ti=
+ngkat Praktikum</a><a href=3D"https://darlis-its.github.io/materi-gim-cerda=
+s/#wajib">Wajib</a><a href=3D"https://darlis-its.github.io/materi-gim-cerda=
+s/#pengembangan">Pengembangan</a><a href=3D"https://darlis-its.github.io/ma=
+teri-gim-cerdas/#126-tugas-eksperimen">126. Tugas Eksperimen</a><a href=3D"=
+https://darlis-its.github.io/materi-gim-cerdas/#127-pertanyaan-analisis">12=
+7. Pertanyaan Analisis</a><a href=3D"https://darlis-its.github.io/materi-gi=
+m-cerdas/#128-checklist-keberhasilan-praktikum">128. Checklist Keberhasilan=
+ Praktikum</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#12=
+9-rekomendasi-pengembangan-terbaik">129. Rekomendasi Pengembangan Terbaik</=
+a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#130-rekomendas=
+i-praktikum-utama">130. Rekomendasi Praktikum Utama</a><a href=3D"https://d=
+arlis-its.github.io/materi-gim-cerdas/#bsp-roomcorridor-dungeon-constraint-=
+validation">BSP ROOM=E2=80=93CORRIDOR DUNGEON + CONSTRAINT VALIDATION</a><a=
+ href=3D"https://darlis-its.github.io/materi-gim-cerdas/#131-alternatif-pra=
+ktikum-yang-lebih-mudah">131. Alternatif Praktikum yang Lebih Mudah</a><a h=
+ref=3D"https://darlis-its.github.io/materi-gim-cerdas/#random-walk-dungeon"=
+>RANDOM WALK DUNGEON</a><a href=3D"https://darlis-its.github.io/materi-gim-=
+cerdas/#132-alternatif-praktikum-lanjutan">132. Alternatif Praktikum Lanjut=
+an</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#hybrid-pro=
+cedural-dungeon">HYBRID PROCEDURAL DUNGEON</a><a href=3D"https://darlis-its=
+.github.io/materi-gim-cerdas/#133-nama-project-final">133. Nama Project Fin=
+al</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#rekomendas=
+i-utama">Rekomendasi utama</a><a href=3D"https://darlis-its.github.io/mater=
+i-gim-cerdas/#nama-scene">Nama Scene</a><a href=3D"https://darlis-its.githu=
+b.io/materi-gim-cerdas/#nama-generator">Nama generator</a><a href=3D"https:=
+//darlis-its.github.io/materi-gim-cerdas/#nama-root-runtime">Nama root runt=
+ime</a><a href=3D"https://darlis-its.github.io/materi-gim-cerdas/#134-kesim=
+pulan">134. Kesimpulan</a></aside><div class=3D"reader"><article class=3D"m=
+arkdown"><h1 id=3D"modul-praktikum-10">MODUL PRAKTIKUM 10</h1><h1 id=3D"pro=
+cedural-dungeon-generation-dengan-bsp-di-unity-6">PROCEDURAL DUNGEON GENERA=
+TION DENGAN BSP DI UNITY 6</h1><p><strong>Mata Kuliah:</strong> Game Cerdas=
+<br><strong>Program Studi:</strong> S1 Teknik Informatika<br><strong>Semest=
+er:</strong> 7<br><strong>Tools:</strong> Unity 6 + C#<br><strong>Materi:</=
+strong> PCG for Level &amp; Dungeon Generation<br><strong>Metode Utama:</st=
+rong> Binary Space Partitioning (BSP)<br><strong>Jenis Game:</strong> 3D To=
+p-Down Procedural Dungeon  </p>
+<hr>
+<h1 id=3D"1-tujuan-praktikum">1. Tujuan Praktikum</h1><p>Pada praktikum ini=
+ mahasiswa akan membangun sebuah <strong>procedural dungeon generator</stro=
+ng> menggunakan teknik <strong>Binary Space Partitioning (BSP)</strong>.</p=
+>
+<p>Dungeon tidak dibuat secara manual satu per satu. Program akan:</p>
+<ol>
+<li>membuat representasi level berbasis grid,</li>
+<li>membagi area dungeon menggunakan BSP,</li>
+<li>membuat room pada setiap area hasil pembagian,</li>
+<li>menghubungkan room menggunakan corridor,</li>
+<li>menentukan Start,</li>
+<li>menentukan Goal,</li>
+<li>menempatkan Enemy,</li>
+<li>menempatkan Item,</li>
+<li>membangun dungeon menjadi GameObject Unity,</li>
+<li>menggunakan seed agar level dapat direproduksi,</li>
+<li>melakukan validasi dasar dungeon.</li>
+</ol>
+<p>Output akhirnya berupa dungeon 3D yang berbeda ketika seed berbeda tetap=
+i menghasilkan dungeon yang sama ketika menggunakan seed yang sama.</p>
+<hr>
+<h1 id=3D"2-capaian-pembelajaran-praktikum">2. Capaian Pembelajaran Praktik=
+um</h1><p>Setelah menyelesaikan praktikum, mahasiswa diharapkan mampu:</p>
+<ul>
+<li>memahami representasi level menggunakan grid,</li>
+<li>menjelaskan hubungan koordinat grid dan koordinat dunia Unity,</li>
+<li>memahami konsep procedural generation,</li>
+<li>memahami penggunaan random seed,</li>
+<li>menjelaskan Binary Space Partitioning,</li>
+<li>membuat pembagian ruang secara rekursif,</li>
+<li>membuat room pada leaf BSP,</li>
+<li>membuat corridor antar-room,</li>
+<li>menggunakan array dua dimensi sebagai representasi level,</li>
+<li>mengubah data dungeon menjadi GameObject,</li>
+<li>menggunakan Prefab untuk membangun level,</li>
+<li>menggunakan <code>Instantiate()</code>,</li>
+<li>menggunakan parent object untuk mengorganisasi object hasil generation,=
+</li>
+<li>menentukan Start dan Goal,</li>
+<li>melakukan procedural enemy dan item placement,</li>
+<li>memahami konsep validasi dungeon,</li>
+<li>memahami hubungan PCG dengan Pathfinding dan Game AI.</li>
+</ul>
+<hr>
+<h1 id=3D"3-hasil-akhir-praktikum">3. Hasil Akhir Praktikum</h1><p>Secara k=
+onseptual dungeon akan mempunyai struktur seperti:</p>
+<pre><code class=3D"hljs language-plaintext">##############################=
+###
+####......######........#########
+####......######........#########
+####......######........#########
+####.........###........#########
+###########..###........#########
+###########..########.###########
+######.......########.###########
+######.......##.............#####
+######......................#####
+######.......##.............#####
+#################################</code></pre><p>Keterangan:</p>
+<pre><code class=3D"hljs language-plaintext"># =3D Wall
+. =3D Floor
+S =3D Start
+G =3D Goal
+E =3D Enemy
+I =3D Item</code></pre><p>Di Unity, data tersebut kemudian divisualisasikan=
+ sebagai dungeon 3D menggunakan:</p>
+<pre><code class=3D"hljs language-plaintext">Floor Prefab
+Wall Prefab
+Player
+Goal
+Enemy Prefab
+Item Prefab</code></pre><hr>
+<h1 id=3D"4-mengapa-menggunakan-bsp">4. Mengapa Menggunakan BSP?</h1><p>Mat=
+eri Pertemuan 10 membahas beberapa metode:</p>
+<ul>
+<li>Grid-Based Generation</li>
+<li>Random Walk</li>
+<li>Binary Space Partitioning</li>
+<li>Cellular Automata</li>
+<li>Constraint-Based Generation</li>
+</ul>
+<p>Untuk praktikum utama, metode yang direkomendasikan adalah:</p>
+<h2 id=3D"binary-space-partitioning-bsp">Binary Space Partitioning / BSP</h=
+2><p>BSP sangat sesuai untuk membuat:</p>
+<pre><code class=3D"hljs language-plaintext">Room =E2=86=92 Corridor =E2=86=
+=92 Room =E2=86=92 Corridor =E2=86=92 Room</code></pre><p>dibandingkan Rand=
+om Walk yang cenderung menghasilkan bentuk lebih organik.</p>
+<p>Keuntungan BSP untuk praktikum:</p>
+<ol>
+<li>konsep pembagian ruang terlihat jelas,</li>
+<li>hasil dungeon relatif terstruktur,</li>
+<li>setiap area dapat memiliki satu room,</li>
+<li>room dapat dihubungkan dengan corridor,</li>
+<li>konektivitas lebih mudah dikontrol,</li>
+<li>Start dan Goal mudah ditempatkan,</li>
+<li>mudah ditambahkan Enemy,</li>
+<li>mudah ditambahkan Item,</li>
+<li>kompatibel dengan konsep NavMesh,</li>
+<li>mudah dikembangkan menjadi dungeon crawler.</li>
+</ol>
+<hr>
+<h1 id=3D"5-gambaran-arsitektur-sistem">5. Gambaran Arsitektur Sistem</h1><=
+p>Dungeon dibuat melalui pipeline:</p>
+<pre><code class=3D"hljs language-plaintext">Seed
+  =E2=86=93
+Initialize Grid
+  =E2=86=93
+Create BSP Root
+  =E2=86=93
+Split Area Recursively
+  =E2=86=93
+Find Leaf Nodes
+  =E2=86=93
+Generate Rooms
+  =E2=86=93
+Generate Corridors
+  =E2=86=93
+Write Rooms to Grid
+  =E2=86=93
+Place Start &amp; Goal
+  =E2=86=93
+Build 3D Level
+  =E2=86=93
+Place Player
+  =E2=86=93
+Place Enemy &amp; Item
+  =E2=86=93
+Validation</code></pre><p>Penting untuk memahami bahwa:</p>
+<blockquote>
+<p>PCG tidak berarti sekadar membuat sesuatu secara random.</p>
+</blockquote>
+<p>Level tetap harus memiliki aturan agar dapat dimainkan.</p>
+<hr>
+<h1 id=3D"6-istilah-teknis-yang-digunakan">6. Istilah Teknis yang Digunakan=
+</h1><h2 id=3D"61-gameobject">6.1 GameObject</h2><p><code>GameObject</code>=
+ adalah objek dasar yang terdapat di dalam Scene Unity.</p>
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">Player
+Enemy
+Floor
+Wall
+Main Camera
+DungeonGenerator</code></pre><p>GameObject sendiri merupakan wadah yang dap=
+at memiliki berbagai <strong>Component</strong>.</p>
+<hr>
+<h1 id=3D"7-component">7. Component</h1><p>Component memberikan fungsi pada=
+ GameObject.</p>
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">Transform
+MeshRenderer
+Collider
+Rigidbody
+MonoBehaviour Script
+NavMeshAgent</code></pre><p>Contoh sebuah Enemy:</p>
+<pre><code class=3D"hljs language-plaintext">Enemy
+=E2=94=9C=E2=94=80=E2=94=80 Transform
+=E2=94=9C=E2=94=80=E2=94=80 MeshFilter
+=E2=94=9C=E2=94=80=E2=94=80 MeshRenderer
+=E2=94=9C=E2=94=80=E2=94=80 CapsuleCollider
+=E2=94=9C=E2=94=80=E2=94=80 NavMeshAgent
+=E2=94=94=E2=94=80=E2=94=80 EnemyAI.cs</code></pre><hr>
+<h1 id=3D"8-transform">8. Transform</h1><p>Setiap GameObject memiliki <code=
+>Transform</code>.</p>
+<p>Transform menyimpan:</p>
+<pre><code class=3D"hljs language-plaintext">Position
+Rotation
+Scale</code></pre><p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">transform.position</code></pre=
+><p>menunjukkan posisi GameObject pada dunia Unity.</p>
+<p>Dalam praktikum ini, posisi tile dihitung dari koordinat grid.</p>
+<hr>
+<h1 id=3D"9-scene">9. Scene</h1><p>Scene adalah ruang tempat GameObject seb=
+uah level berada.</p>
+<p>Scene praktikum:</p>
+<pre><code class=3D"hljs language-plaintext">PCG_Dungeon_Scene</code></pre>=
+<p>Di dalam Scene terdapat:</p>
+<pre><code class=3D"hljs language-plaintext">DungeonGenerator
+LevelRoot
+Player
+Main Camera
+Directional Light</code></pre><hr>
+<h1 id=3D"10-prefab">10. Prefab</h1><p><strong>Prefab</strong> adalah templ=
+ate GameObject yang dapat digunakan berulang kali.</p>
+<p>Pada praktikum ini kita membutuhkan:</p>
+<pre><code class=3D"hljs language-plaintext">FloorPrefab
+WallPrefab
+GoalPrefab
+EnemyPrefab
+ItemPrefab</code></pre><p>Keuntungan Prefab:</p>
+<ul>
+<li>bentuk objek dibuat sekali,</li>
+<li>dapat digunakan berkali-kali,</li>
+<li>dapat di-spawn dari C#,</li>
+<li>perubahan Prefab dapat diterapkan secara konsisten.</li>
+</ul>
+<hr>
+<h1 id=3D"11-instantiate">11. Instantiate</h1><p><code>Instantiate()</code>=
+ digunakan untuk membuat salinan Object/Prefab saat program berjalan.</p>
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">Instantiate(floorPrefab, posit=
+ion, Quaternion.identity);</code></pre><p>Artinya:</p>
+<pre><code class=3D"hljs language-plaintext">buat sebuah FloorPrefab
+pada position
+tanpa rotasi tambahan</code></pre><hr>
+<h1 id=3D"12-quaternionidentity">12. Quaternion.identity</h1><p>Unity mengg=
+unakan <code>Quaternion</code> untuk menyimpan rotasi.</p>
+<pre><code class=3D"hljs language-plaintext">Quaternion.identity</code></pr=
+e><p>berarti:</p>
+<pre><code class=3D"hljs language-plaintext">tidak ada rotasi tambahan</cod=
+e></pre><p>Untuk praktikum ini Floor dan Wall tidak memerlukan rotasi khusu=
+s.</p>
+<hr>
+<h1 id=3D"13-parent-dan-child">13. Parent dan Child</h1><p>GameObject dapat=
+ mempunyai hubungan hierarchy:</p>
+<pre><code class=3D"hljs language-plaintext">LevelRoot
+=E2=94=9C=E2=94=80=E2=94=80 Floors
+=E2=94=9C=E2=94=80=E2=94=80 Walls
+=E2=94=9C=E2=94=80=E2=94=80 Enemies
+=E2=94=94=E2=94=80=E2=94=80 Items</code></pre><p>Dengan parent, hasil proce=
+dural generation tidak memenuhi root Scene dengan ratusan GameObject yang t=
+idak terorganisasi.</p>
+<hr>
+<h1 id=3D"14-serializefield">14. SerializeField</h1><p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">[SerializeField] private int m=
+apWidth =3D 60;</code></pre><p><code>SerializeField</code> memungkinkan fie=
+ld <code>private</code> tetap ditampilkan di Inspector.</p>
+<p>Dengan demikian mahasiswa dapat mengubah parameter:</p>
+<pre><code class=3D"hljs language-plaintext">Map Width
+Map Height
+Minimum Leaf Size
+Minimum Room Size</code></pre><p>tanpa mengubah source code.</p>
+<hr>
+<h1 id=3D"15-array-dua-dimensi">15. Array Dua Dimensi</h1><p>Dungeon disimp=
+an menggunakan:</p>
+<pre><code class=3D"hljs language-plaintext">TileType[,] grid;</code></pre>=
+<p>Ini disebut <strong>two-dimensional array</strong>.</p>
+<p>Bayangkan seperti tabel:</p>
+<pre><code class=3D"hljs language-plaintext">grid[x,y]</code></pre><p>Misal=
+nya:</p>
+<pre><code class=3D"hljs language-plaintext">grid[10,15]</code></pre><p>men=
+unjukkan tile pada koordinat:</p>
+<pre><code class=3D"hljs language-plaintext">x =3D 10
+y =3D 15</code></pre><hr>
+<h1 id=3D"16-enum">16. Enum</h1><p>Enum digunakan ketika suatu data mempuny=
+ai sejumlah pilihan yang jelas.</p>
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">public enum TileType
+{
+    Wall,
+    Floor,
+    Start,
+    Goal
+}</code></pre><p>Daripada menggunakan:</p>
+<pre><code class=3D"hljs language-plaintext">0
+1
+2
+3</code></pre><p>kode menjadi jauh lebih mudah dibaca.</p>
+<hr>
+<h1 id=3D"17-vector2int">17. Vector2Int</h1><p><code>Vector2Int</code> meny=
+impan dua angka integer.</p>
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">Vector2Int position =3D new Ve=
+ctor2Int(10, 20);</code></pre><p>Sangat cocok untuk koordinat grid karena:<=
+/p>
+<pre><code class=3D"hljs language-plaintext">x dan y berupa bilangan bulat<=
+/code></pre><hr>
+<h1 id=3D"18-vector3">18. Vector3</h1><p>Posisi GameObject Unity 3D menggun=
+akan:</p>
+<pre><code class=3D"hljs language-plaintext">Vector3</code></pre><p>yang me=
+miliki:</p>
+<pre><code class=3D"hljs language-plaintext">x
+y
+z</code></pre><p>Dungeon kita menggunakan:</p>
+<pre><code class=3D"hljs language-plaintext">X =3D horizontal
+Y =3D tinggi
+Z =3D grid Y</code></pre><p>Sehingga:</p>
+<pre><code class=3D"hljs language-plaintext">grid (x,y)</code></pre><p>diub=
+ah menjadi:</p>
+<pre><code class=3D"hljs language-plaintext">world (x,0,z)</code></pre><hr>
+<h1 id=3D"19-seed">19. Seed</h1><p>Seed adalah nilai awal generator angka p=
+seudo-random.</p>
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">seed =3D 12345</code></pre><p>=
+Seed memungkinkan procedural generation menjadi <strong>reproducible</stron=
+g>:</p>
+<pre><code class=3D"hljs language-plaintext">Seed sama
+=E2=86=92 urutan random sama
+=E2=86=92 dungeon sama</code></pre><p>Sedangkan:</p>
+<pre><code class=3D"hljs language-plaintext">Seed berbeda
+=E2=86=92 dungeon berbeda</code></pre><p>Ini sangat penting untuk debugging=
+ PCG.</p>
+<hr>
+<h1 id=3D"20-recursive-function">20. Recursive Function</h1><p>BSP mengguna=
+kan <strong>rekursi</strong>.</p>
+<p>Recursive function adalah fungsi yang memanggil dirinya sendiri.</p>
+<p>Contoh konsep:</p>
+<pre><code class=3D"hljs language-plaintext">Split(area)
+    =E2=86=93
+Split(area kiri)
+    =E2=86=93
+Split(area kiri lagi)</code></pre><p>Rekursi berhenti setelah ukuran area t=
+erlalu kecil untuk dibagi kembali.</p>
+<hr>
+<h1 id=3D"21-leaf-pada-bsp">21. Leaf pada BSP</h1><p>BSP membentuk tree.</p=
+>
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">Root
+=E2=94=9C=E2=94=80=E2=94=80 Left
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 Leaf
+=E2=94=82   =E2=94=94=E2=94=80=E2=94=80 Leaf
+=E2=94=94=E2=94=80=E2=94=80 Right
+    =E2=94=9C=E2=94=80=E2=94=80 Leaf
+    =E2=94=94=E2=94=80=E2=94=80 Leaf</code></pre><p><code>Leaf</code> berar=
+ti node yang tidak dibagi lagi.</p>
+<p>Room akan dibuat pada setiap Leaf.</p>
+<hr>
+<h1 id=3D"22-corridor">22. Corridor</h1><p>Corridor adalah jalur yang mengh=
+ubungkan dua room.</p>
+<p>Praktikum menggunakan:</p>
+<pre><code class=3D"hljs language-plaintext">L-Shaped Corridor</code></pre>=
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">Room A =E2=94=80=E2=94=80=E2=
+=94=80=E2=94=80=E2=94=80=E2=94=80=E2=94=90
+             =E2=94=82
+             =E2=94=82
+             =E2=94=94=E2=94=80=E2=94=80=E2=94=80=E2=94=80 Room B</code></p=
+re><hr>
+<h1 id=3D"23-persiapan-project-unity">23. Persiapan Project Unity</h1><p>Gu=
+nakan:</p>
+<pre><code class=3D"hljs language-plaintext">Unity 6</code></pre><p>Buat pr=
+oject:</p>
+<pre><code class=3D"hljs language-plaintext">Universal 3D</code></pre><p>at=
+au template 3D lain yang tersedia.</p>
+<hr>
+<h1 id=3D"24-nama-project-yang-direkomendasikan">24. Nama Project yang Dire=
+komendasikan</h1><h2 id=3D"nama-utama">Nama utama</h2><pre><code class=3D"h=
+ljs language-plaintext">PCG_BSP_Dungeon</code></pre><p>Nama ini paling dire=
+komendasikan karena singkat dan menjelaskan:</p>
+<pre><code class=3D"hljs language-plaintext">PCG =3D Procedural Content Gen=
+eration
+BSP =3D algoritma yang digunakan
+Dungeon =3D hasil project</code></pre><p>Alternatif:</p>
+<pre><code class=3D"hljs language-plaintext">ProceduralDungeon_BSP
+SmartDungeonGenerator
+PCG_DungeonLab
+ProceduralDungeonAI
+GameCerdas_PCGDungeon</code></pre><p>Untuk konsistensi praktikum kuliah say=
+a merekomendasikan:</p>
+<pre><code class=3D"hljs language-plaintext">GameCerdas_P10_PCG_BSP_Dungeon=
+</code></pre><hr>
+<h1 id=3D"25-membuat-project">25. Membuat Project</h1><p>Di Unity Hub:</p>
+<pre><code class=3D"hljs language-plaintext">New Project</code></pre><p>Pil=
+ih:</p>
+<pre><code class=3D"hljs language-plaintext">Universal 3D</code></pre><p>Pr=
+oject Name:</p>
+<pre><code class=3D"hljs language-plaintext">GameCerdas_P10_PCG_BSP_Dungeon=
+</code></pre><p>Klik:</p>
+<pre><code class=3D"hljs language-plaintext">Create Project</code></pre><hr=
+>
+<h1 id=3D"26-struktur-folder-project">26. Struktur Folder Project</h1><p>Bu=
+at struktur:</p>
+<pre><code class=3D"hljs language-plaintext">Assets/
+=E2=94=82
+=E2=94=9C=E2=94=80=E2=94=80 Scenes/
+=E2=94=82   =E2=94=94=E2=94=80=E2=94=80 PCG_Dungeon_Scene.unity
+=E2=94=82
+=E2=94=9C=E2=94=80=E2=94=80 Scripts/
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 PCG/
+=E2=94=82   =E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 TileType.cs
+=E2=94=82   =E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 DungeonRoom.cs
+=E2=94=82   =E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 BSPNode.cs
+=E2=94=82   =E2=94=82   =E2=94=94=E2=94=80=E2=94=80 DungeonGenerator.cs
+=E2=94=82   =E2=94=82
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 Player/
+=E2=94=82   =E2=94=82   =E2=94=94=E2=94=80=E2=94=80 SimplePlayerController.=
+cs
+=E2=94=82   =E2=94=82
+=E2=94=82   =E2=94=94=E2=94=80=E2=94=80 Enemy/
+=E2=94=82       =E2=94=94=E2=94=80=E2=94=80 SimpleEnemy.cs
+=E2=94=82
+=E2=94=9C=E2=94=80=E2=94=80 Prefabs/
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 Dungeon/
+=E2=94=82   =E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 FloorPrefab.prefab
+=E2=94=82   =E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 WallPrefab.prefab
+=E2=94=82   =E2=94=82   =E2=94=94=E2=94=80=E2=94=80 GoalPrefab.prefab
+=E2=94=82   =E2=94=82
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 Characters/
+=E2=94=82   =E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 PlayerPrefab.prefab
+=E2=94=82   =E2=94=82   =E2=94=94=E2=94=80=E2=94=80 EnemyPrefab.prefab
+=E2=94=82   =E2=94=82
+=E2=94=82   =E2=94=94=E2=94=80=E2=94=80 Items/
+=E2=94=82       =E2=94=94=E2=94=80=E2=94=80 ItemPrefab.prefab
+=E2=94=82
+=E2=94=94=E2=94=80=E2=94=80 Materials/
+    =E2=94=9C=E2=94=80=E2=94=80 FloorMaterial.mat
+    =E2=94=9C=E2=94=80=E2=94=80 WallMaterial.mat
+    =E2=94=9C=E2=94=80=E2=94=80 GoalMaterial.mat
+    =E2=94=9C=E2=94=80=E2=94=80 EnemyMaterial.mat
+    =E2=94=94=E2=94=80=E2=94=80 ItemMaterial.mat</code></pre><hr>
+<h1 id=3D"27-membuat-scene">27. Membuat Scene</h1><p>Simpan Scene sebagai:<=
+/p>
+<pre><code class=3D"hljs language-plaintext">PCG_Dungeon_Scene</code></pre>=
+<p>Hierarchy awal:</p>
+<pre><code class=3D"hljs language-plaintext">PCG_Dungeon_Scene
+=E2=94=9C=E2=94=80=E2=94=80 Main Camera
+=E2=94=9C=E2=94=80=E2=94=80 Directional Light
+=E2=94=9C=E2=94=80=E2=94=80 DungeonGenerator
+=E2=94=94=E2=94=80=E2=94=80 LevelRoot</code></pre><hr>
+<h1 id=3D"28-membuat-floor-prefab">28. Membuat Floor Prefab</h1><p>Pilih:</=
+p>
+<pre><code class=3D"hljs language-plaintext">GameObject
+=E2=86=92 3D Object
+=E2=86=92 Cube</code></pre><p>Rename:</p>
+<pre><code class=3D"hljs language-plaintext">FloorPrefab</code></pre><p>Tra=
+nsform:</p>
+<pre><code class=3D"hljs language-plaintext">Position =3D (0, 0, 0)
+Scale    =3D (1, 0.1, 1)</code></pre><p>Cube sudah memiliki BoxCollider seh=
+ingga nantinya dapat diinjak Player.</p>
+<p>Tambahkan material Floor.</p>
+<p>Drag ke:</p>
+<pre><code class=3D"hljs language-plaintext">Assets/Prefabs/Dungeon/</code>=
+</pre><p>Setelah menjadi Prefab, hapus instance dari Scene.</p>
+<hr>
+<h1 id=3D"29-membuat-wall-prefab">29. Membuat Wall Prefab</h1><p>Buat Cube.=
+</p>
+<p>Rename:</p>
+<pre><code class=3D"hljs language-plaintext">WallPrefab</code></pre><p>Tran=
+sform:</p>
+<pre><code class=3D"hljs language-plaintext">Scale =3D (1, 1, 1)</code></pr=
+e><p>Material:</p>
+<pre><code class=3D"hljs language-plaintext">WallMaterial</code></pre><p>Dr=
+ag ke:</p>
+<pre><code class=3D"hljs language-plaintext">Assets/Prefabs/Dungeon/</code>=
+</pre><hr>
+<h1 id=3D"30-membuat-goal-prefab">30. Membuat Goal Prefab</h1><p>Buat:</p>
+<pre><code class=3D"hljs language-plaintext">3D Object =E2=86=92 Cylinder</=
+code></pre><p>Rename:</p>
+<pre><code class=3D"hljs language-plaintext">GoalPrefab</code></pre><p>Guna=
+kan scale kecil, misalnya:</p>
+<pre><code class=3D"hljs language-plaintext">(0.4, 0.1, 0.4)</code></pre><p=
+>Letakkan visual Goal nantinya sedikit di atas Floor.</p>
+<p>Gunakan material berbeda agar mudah terlihat.</p>
+<hr>
+<h1 id=3D"31-membuat-tiletypecs">31. Membuat TileType.cs</h1><p>Buat:</p>
+<pre><code class=3D"hljs language-plaintext">Assets/Scripts/PCG/TileType.cs=
+</code></pre><p>Isi:</p>
+<pre><code class=3D"hljs language-plaintext">public enum TileType
+{
+    Wall,
+    Floor,
+    Start,
+    Goal
+}</code></pre><h2 id=3D"penjelasan">Penjelasan</h2><p><code>Wall</code></p>
+<pre><code class=3D"hljs language-plaintext">cell tidak dapat dilewati</cod=
+e></pre><p><code>Floor</code></p>
+<pre><code class=3D"hljs language-plaintext">cell dapat dilewati</code></pr=
+e><p><code>Start</code></p>
+<pre><code class=3D"hljs language-plaintext">posisi awal player</code></pre=
+><p><code>Goal</code></p>
+<pre><code class=3D"hljs language-plaintext">tujuan dungeon</code></pre><hr=
+>
+<h1 id=3D"32-membuat-dungeonroomcs">32. Membuat DungeonRoom.cs</h1><p>Buat:=
+</p>
+<pre><code class=3D"hljs language-plaintext">DungeonRoom.cs</code></pre><p>=
+Isi:</p>
+<pre><code class=3D"hljs language-plaintext">using UnityEngine;
+
+[System.Serializable]
+public class DungeonRoom
+{
+    public int x;
+    public int y;
+    public int width;
+    public int height;
+
+    public DungeonRoom(int x, int y, int width, int height)
+    {
+        this.x =3D x;
+        this.y =3D y;
+        this.width =3D width;
+        this.height =3D height;
+    }
+
+    public Vector2Int Center
+    {
+        get
+        {
+            return new Vector2Int(
+                x + width / 2,
+                y + height / 2
+            );
+        }
+    }
+}</code></pre><hr>
+<h1 id=3D"33-penjelasan-dungeonroom">33. Penjelasan DungeonRoom</h1><p>Clas=
+s ini menyimpan sebuah rectangle Room.</p>
+<p>Properti:</p>
+<pre><code class=3D"hljs language-plaintext">x
+y
+width
+height</code></pre><p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">x      =3D 10
+y      =3D 5
+width  =3D 8
+height =3D 6</code></pre><p>berarti room berada dari:</p>
+<pre><code class=3D"hljs language-plaintext">x =3D 10 sampai 17
+y =3D 5 sampai 10</code></pre><hr>
+<h1 id=3D"34-property-center">34. Property Center</h1><p>Bagian:</p>
+<pre><code class=3D"hljs language-plaintext">public Vector2Int Center</code=
+></pre><p>digunakan untuk mendapatkan titik tengah room.</p>
+<p>Titik tengah sangat penting untuk:</p>
+<ul>
+<li>corridor,</li>
+<li>Start,</li>
+<li>Goal,</li>
+<li>enemy placement,</li>
+<li>item placement.</li>
+</ul>
+<hr>
+<h1 id=3D"35-membuat-bspnodecs">35. Membuat BSPNode.cs</h1><p>Buat:</p>
+<pre><code class=3D"hljs language-plaintext">BSPNode.cs</code></pre><p>Isi:=
+</p>
+<pre><code class=3D"hljs language-plaintext">using UnityEngine;
+
+public class BSPNode
+{
+    public int x;
+    public int y;
+    public int width;
+    public int height;
+
+    public BSPNode left;
+    public BSPNode right;
+
+    public DungeonRoom room;
+
+    public BSPNode(int x, int y, int width, int height)
+    {
+        this.x =3D x;
+        this.y =3D y;
+        this.width =3D width;
+        this.height =3D height;
+    }
+
+    public bool IsLeaf
+    {
+        get
+        {
+            return left =3D=3D null &amp;&amp; right =3D=3D null;
+        }
+    }
+}</code></pre><hr>
+<h1 id=3D"36-struktur-bsp">36. Struktur BSP</h1><p>Satu <code>BSPNode</code=
+> mewakili area rectangular.</p>
+<p>Misalnya:</p>
+<pre><code class=3D"hljs language-plaintext">Root
+x =3D 1
+y =3D 1
+width =3D 58
+height =3D 38</code></pre><p>Kemudian Root dibagi:</p>
+<pre><code class=3D"hljs language-plaintext">Root
+=E2=94=9C=E2=94=80=E2=94=80 left
+=E2=94=94=E2=94=80=E2=94=80 right</code></pre><p>Masing-masing dapat dibagi=
+ lagi.</p>
+<hr>
+<h1 id=3D"37-membuat-dungeongeneratorcs">37. Membuat DungeonGenerator.cs</h=
+1><p>Buat:</p>
+<pre><code class=3D"hljs language-plaintext">DungeonGenerator.cs</code></pr=
+e><p>Script ini menjadi controller utama procedural dungeon.</p>
+<hr>
+<h1 id=3D"38-header-script-dungeongenerator">38. Header Script DungeonGener=
+ator</h1><p>Masukkan:</p>
+<pre><code class=3D"hljs language-plaintext">using System.Collections.Gener=
+ic;
+using UnityEngine;
+
+public class DungeonGenerator : MonoBehaviour
+{</code></pre><hr>
+<h1 id=3D"39-parameter-dungeon">39. Parameter Dungeon</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">[Header("Dungeon Size")]
+[SerializeField] private int mapWidth =3D 60;
+[SerializeField] private int mapHeight =3D 40;
+[SerializeField] private float tileSize =3D 1f;
+
+[Header("BSP Settings")]
+[SerializeField] private int minLeafSize =3D 12;
+[SerializeField] private int maxLeafSize =3D 20;
+
+[Header("Room Settings")]
+[SerializeField] private int minRoomSize =3D 5;
+[SerializeField] private int roomMargin =3D 2;
+
+[Header("Generation")]
+[SerializeField] private int seed =3D 12345;
+[SerializeField] private bool randomSeed =3D false;</code></pre><hr>
+<h1 id=3D"40-penjelasan-parameter">40. Penjelasan Parameter</h1><h2 id=3D"m=
+apwidth">mapWidth</h2><p>Lebar dungeon.</p>
+<pre><code class=3D"hljs language-plaintext">60 cell</code></pre><h2 id=3D"=
+mapheight">mapHeight</h2><p>Tinggi dungeon.</p>
+<pre><code class=3D"hljs language-plaintext">40 cell</code></pre><h2 id=3D"=
+tilesize">tileSize</h2><p>Ukuran setiap cell di dunia Unity.</p>
+<pre><code class=3D"hljs language-plaintext">1 unit</code></pre><h2 id=3D"m=
+inleafsize">minLeafSize</h2><p>Ukuran minimum sebuah area BSP sebelum tidak=
+ boleh dibagi.</p>
+<h2 id=3D"maxleafsize">maxLeafSize</h2><p>Jika area lebih besar dari nilai =
+ini, area sebaiknya dibagi kembali.</p>
+<h2 id=3D"minroomsize">minRoomSize</h2><p>Ukuran minimum room.</p>
+<h2 id=3D"roommargin">roomMargin</h2><p>Jarak antara room dan batas Leaf.</=
+p>
+<hr>
+<h1 id=3D"41-referensi-prefab">41. Referensi Prefab</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">[Header("Prefabs")]
+[SerializeField] private GameObject floorPrefab;
+[SerializeField] private GameObject wallPrefab;
+[SerializeField] private GameObject goalPrefab;
+[SerializeField] private GameObject playerPrefab;
+[SerializeField] private GameObject enemyPrefab;
+[SerializeField] private GameObject itemPrefab;</code></pre><hr>
+<h1 id=3D"42-spawn-settings">42. Spawn Settings</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">[Header("Spawn Settings")]
+[SerializeField] private int enemyCount =3D 8;
+[SerializeField] private int itemCount =3D 5;
+[SerializeField] private int safeRoomCount =3D 1;</code></pre><p><code>safe=
+RoomCount</code> digunakan agar room awal tidak langsung berisi Enemy.</p>
+<hr>
+<h1 id=3D"43-internal-data">43. Internal Data</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private TileType[,] grid;
+
+private BSPNode rootNode;
+
+private List&lt;BSPNode&gt; leafNodes =3D new List&lt;BSPNode&gt;();
+private List&lt;DungeonRoom&gt; rooms =3D new List&lt;DungeonRoom&gt;();
+
+private Transform levelRoot;
+
+private Vector2Int startPosition;
+private Vector2Int goalPosition;</code></pre><hr>
+<h1 id=3D"44-fungsi-start">44. Fungsi Start</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void Start()
+{
+    GenerateDungeon();
+}</code></pre><p>Dengan demikian dungeon langsung dihasilkan ketika tombol =
+Play ditekan.</p>
+<hr>
+<h1 id=3D"45-fungsi-generatedungeon">45. Fungsi GenerateDungeon</h1><p>Tamb=
+ahkan:</p>
+<pre><code class=3D"hljs language-plaintext">public void GenerateDungeon()
+{
+    ClearDungeon();
+
+    SetupSeed();
+
+    InitializeGrid();
+
+    CreateBSP();
+
+    CreateRooms();
+
+    CreateCorridors();
+
+    PlaceStartAndGoal();
+
+    BuildDungeon();
+
+    SpawnGameplayObjects();
+
+    Debug.Log("Dungeon generated with seed: " + seed);
+}</code></pre><p>Ini merupakan pipeline utama generator.</p>
+<hr>
+<h1 id=3D"46-setup-seed">46. Setup Seed</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void SetupSeed()
+{
+    if (randomSeed)
+    {
+        seed =3D System.DateTime.Now.GetHashCode();
+    }
+
+    Random.InitState(seed);
+}</code></pre><p>Jika:</p>
+<pre><code class=3D"hljs language-plaintext">randomSeed =3D false</code></p=
+re><p>maka nilai Inspector dipakai.</p>
+<p>Jika:</p>
+<pre><code class=3D"hljs language-plaintext">randomSeed =3D true</code></pr=
+e><p>program membuat seed baru.</p>
+<hr>
+<h1 id=3D"47-initialize-grid">47. Initialize Grid</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void InitializeGrid()
+{
+    grid =3D new TileType[mapWidth, mapHeight];
+
+    for (int x =3D 0; x &lt; mapWidth; x++)
+    {
+        for (int y =3D 0; y &lt; mapHeight; y++)
+        {
+            grid[x, y] =3D TileType.Wall;
+        }
+    }
+}</code></pre><p>Dungeon menggunakan pendekatan:</p>
+<pre><code class=3D"hljs language-plaintext">Wall-First</code></pre><p>Awal=
+nya seluruh map adalah Wall.</p>
+<p>Kemudian algoritma "mengukir" Floor.</p>
+<hr>
+<h1 id=3D"48-create-bsp">48. Create BSP</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void CreateBSP()
+{
+    rootNode =3D new BSPNode(
+        1,
+        1,
+        mapWidth - 2,
+        mapHeight - 2
+    );
+
+    leafNodes.Clear();
+
+    SplitNode(rootNode);
+}</code></pre><p>Area dungeon tidak dimulai tepat pada koordinat 0 karena k=
+ita menyisakan boundary Wall.</p>
+<hr>
+<h1 id=3D"49-splitnode">49. SplitNode</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void SplitNode(BSPNode=
+ node)
+{
+    if (node.width &lt;=3D maxLeafSize &amp;&amp;
+        node.height &lt;=3D maxLeafSize)
+    {
+        leafNodes.Add(node);
+        return;
+    }
+
+    bool splitHorizontal;
+
+    if (node.width &gt; node.height * 1.25f)
+    {
+        splitHorizontal =3D false;
+    }
+    else if (node.height &gt; node.width * 1.25f)
+    {
+        splitHorizontal =3D true;
+    }
+    else
+    {
+        splitHorizontal =3D Random.value &gt; 0.5f;
+    }
+
+    if (splitHorizontal)
+    {
+        SplitHorizontal(node);
+    }
+    else
+    {
+        SplitVertical(node);
+    }
+}</code></pre><hr>
+<h1 id=3D"50-mengapa-menggunakan-rasio">50. Mengapa Menggunakan Rasio?</h1>=
+<p>Jika area terlalu lebar:</p>
+<pre><code class=3D"hljs language-plaintext">=E2=96=88=E2=96=88=E2=96=88=E2=
+=96=88=E2=96=88=E2=96=88=E2=96=88=E2=96=88=E2=96=88=E2=96=88=E2=96=88=E2=96=
+=88=E2=96=88=E2=96=88=E2=96=88=E2=96=88=E2=96=88=E2=96=88=E2=96=88=E2=96=88=
+</code></pre><p>lebih baik dipotong vertical.</p>
+<p>Jika area terlalu tinggi:</p>
+<pre><code class=3D"hljs language-plaintext">=E2=96=88=E2=96=88=E2=96=88=E2=
+=96=88
+=E2=96=88=E2=96=88=E2=96=88=E2=96=88
+=E2=96=88=E2=96=88=E2=96=88=E2=96=88
+=E2=96=88=E2=96=88=E2=96=88=E2=96=88
+=E2=96=88=E2=96=88=E2=96=88=E2=96=88</code></pre><p>lebih baik dipotong hor=
+izontal.</p>
+<p>Hal ini mencegah terbentuknya Leaf yang terlalu panjang.</p>
+<hr>
+<h1 id=3D"51-split-horizontal">51. Split Horizontal</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void SplitHorizontal(B=
+SPNode node)
+{
+    if (node.height &lt; minLeafSize * 2)
+    {
+        leafNodes.Add(node);
+        return;
+    }
+
+    int split =3D Random.Range(
+        minLeafSize,
+        node.height - minLeafSize
+    );
+
+    node.left =3D new BSPNode(
+        node.x,
+        node.y,
+        node.width,
+        split
+    );
+
+    node.right =3D new BSPNode(
+        node.x,
+        node.y + split,
+        node.width,
+        node.height - split
+    );
+
+    SplitNode(node.left);
+    SplitNode(node.right);
+}</code></pre><hr>
+<h1 id=3D"52-split-vertical">52. Split Vertical</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void SplitVertical(BSP=
+Node node)
+{
+    if (node.width &lt; minLeafSize * 2)
+    {
+        leafNodes.Add(node);
+        return;
+    }
+
+    int split =3D Random.Range(
+        minLeafSize,
+        node.width - minLeafSize
+    );
+
+    node.left =3D new BSPNode(
+        node.x,
+        node.y,
+        split,
+        node.height
+    );
+
+    node.right =3D new BSPNode(
+        node.x + split,
+        node.y,
+        node.width - split,
+        node.height
+    );
+
+    SplitNode(node.left);
+    SplitNode(node.right);
+}</code></pre><hr>
+<h1 id=3D"53-visualisasi-bsp">53. Visualisasi BSP</h1><p>Misalnya area awal=
+:</p>
+<pre><code class=3D"hljs language-plaintext">+-----------------------------=
+---+
+|                                |
+|                                |
+|                                |
+|                                |
++--------------------------------+</code></pre><p>Split:</p>
+<pre><code class=3D"hljs language-plaintext">+---------------+-------------=
+---+
+|               |                |
+|               |                |
+|               |                |
+|               |                |
++---------------+----------------+</code></pre><p>Split lagi:</p>
+<pre><code class=3D"hljs language-plaintext">+-------+-------+-------------=
+---+
+|       |       |                |
+|       |       +---------+------+
+|       |       |         |      |
+|       |       |         |      |
++-------+-------+---------+------+</code></pre><p>Setiap bagian akhir adala=
+h Leaf.</p>
+<hr>
+<h1 id=3D"54-createrooms">54. CreateRooms</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void CreateRooms()
+{
+    rooms.Clear();
+
+    foreach (BSPNode leaf in leafNodes)
+    {
+        int maxWidth =3D leaf.width - roomMargin * 2;
+        int maxHeight =3D leaf.height - roomMargin * 2;
+
+        if (maxWidth &lt; minRoomSize ||
+            maxHeight &lt; minRoomSize)
+        {
+            continue;
+        }
+
+        int roomWidth =3D Random.Range(
+            minRoomSize,
+            maxWidth + 1
+        );
+
+        int roomHeight =3D Random.Range(
+            minRoomSize,
+            maxHeight + 1
+        );
+
+        int maxXOffset =3D
+            leaf.width - roomWidth - roomMargin;
+
+        int maxYOffset =3D
+            leaf.height - roomHeight - roomMargin;
+
+        int roomX =3D leaf.x +
+                    Random.Range(
+                        roomMargin,
+                        maxXOffset + 1
+                    );
+
+        int roomY =3D leaf.y +
+                    Random.Range(
+                        roomMargin,
+                        maxYOffset + 1
+                    );
+
+        DungeonRoom room =3D
+            new DungeonRoom(
+                roomX,
+                roomY,
+                roomWidth,
+                roomHeight
+            );
+
+        leaf.room =3D room;
+
+        rooms.Add(room);
+
+        CarveRoom(room);
+    }
+}</code></pre><hr>
+<h1 id=3D"55-carveroom">55. CarveRoom</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void CarveRoom(Dungeon=
+Room room)
+{
+    for (int x =3D room.x;
+         x &lt; room.x + room.width;
+         x++)
+    {
+        for (int y =3D room.y;
+             y &lt; room.y + room.height;
+             y++)
+        {
+            if (IsInsideGrid(x, y))
+            {
+                grid[x, y] =3D TileType.Floor;
+            }
+        }
+    }
+}</code></pre><p>Room mengubah:</p>
+<pre><code class=3D"hljs language-plaintext">Wall</code></pre><p>menjadi:</=
+p>
+<pre><code class=3D"hljs language-plaintext">Floor</code></pre><hr>
+<h1 id=3D"56-isinsidegrid">56. IsInsideGrid</h1><p>Tambahkan utility:</p>
+<pre><code class=3D"hljs language-plaintext">private bool IsInsideGrid(int =
+x, int y)
+{
+    return x &gt;=3D 0 &amp;&amp;
+           x &lt; mapWidth &amp;&amp;
+           y &gt;=3D 0 &amp;&amp;
+           y &lt; mapHeight;
+}</code></pre><p>Fungsi ini penting untuk menghindari:</p>
+<pre><code class=3D"hljs language-plaintext">IndexOutOfRangeException</code=
+></pre><hr>
+<h1 id=3D"57-membuat-corridor">57. Membuat Corridor</h1><p>Setelah room sel=
+esai dibuat, room masih terpisah.</p>
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">Room A
+
+
+              Room B
+
+
+      Room C</code></pre><p>Kita harus menghubungkannya.</p>
+<p>Untuk praktikum dasar kita menghubungkan room berdasarkan urutan list.</=
+p>
+<hr>
+<h1 id=3D"58-createcorridors">58. CreateCorridors</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void CreateCorridors()
+{
+    if (rooms.Count &lt; 2)
+        return;
+
+    for (int i =3D 0; i &lt; rooms.Count - 1; i++)
+    {
+        Vector2Int from =3D rooms[i].Center;
+        Vector2Int to =3D rooms[i + 1].Center;
+
+        CreateLCorridor(from, to);
+    }
+}</code></pre><hr>
+<h1 id=3D"59-create-l-corridor">59. Create L Corridor</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void CreateLCorridor(
+    Vector2Int from,
+    Vector2Int to)
+{
+    bool horizontalFirst =3D
+        Random.value &gt; 0.5f;
+
+    if (horizontalFirst)
+    {
+        CarveHorizontal(
+            from.x,
+            to.x,
+            from.y
+        );
+
+        CarveVertical(
+            from.y,
+            to.y,
+            to.x
+        );
+    }
+    else
+    {
+        CarveVertical(
+            from.y,
+            to.y,
+            from.x
+        );
+
+        CarveHorizontal(
+            from.x,
+            to.x,
+            to.y
+        );
+    }
+}</code></pre><hr>
+<h1 id=3D"60-corridor-horizontal">60. Corridor Horizontal</h1><p>Tambahkan:=
+</p>
+<pre><code class=3D"hljs language-plaintext">private void CarveHorizontal(
+    int x1,
+    int x2,
+    int y)
+{
+    int start =3D Mathf.Min(x1, x2);
+    int end =3D Mathf.Max(x1, x2);
+
+    for (int x =3D start; x &lt;=3D end; x++)
+    {
+        if (IsInsideGrid(x, y))
+        {
+            grid[x, y] =3D TileType.Floor;
+        }
+    }
+}</code></pre><hr>
+<h1 id=3D"61-corridor-vertical">61. Corridor Vertical</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void CarveVertical(
+    int y1,
+    int y2,
+    int x)
+{
+    int start =3D Mathf.Min(y1, y2);
+    int end =3D Mathf.Max(y1, y2);
+
+    for (int y =3D start; y &lt;=3D end; y++)
+    {
+        if (IsInsideGrid(x, y))
+        {
+            grid[x, y] =3D TileType.Floor;
+        }
+    }
+}</code></pre><hr>
+<h1 id=3D"62-mengapa-corridor-berbentuk-l">62. Mengapa Corridor Berbentuk L=
+?</h1><p>Misalnya:</p>
+<pre><code class=3D"hljs language-plaintext">A =3D (5,5)
+B =3D (12,10)</code></pre><p>Jalur:</p>
+<pre><code class=3D"hljs language-plaintext">(5,5)
+=E2=86=92 (12,5)
+=E2=86=92 (12,10)</code></pre><p>membentuk:</p>
+<pre><code class=3D"hljs language-plaintext">A -------+
+         |
+         |
+         B</code></pre><p>Keuntungannya:</p>
+<ul>
+<li>mudah dibuat,</li>
+<li>selalu menghubungkan dua titik,</li>
+<li>tetap mengikuti grid,</li>
+<li>mudah dipahami mahasiswa.</li>
+</ul>
+<hr>
+<h1 id=3D"63-start-dan-goal">63. Start dan Goal</h1><p>Untuk versi awal:</p=
+>
+<pre><code class=3D"hljs language-plaintext">Start =3D center room pertama
+Goal =3D center room terakhir</code></pre><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void PlaceStartAndGoal=
+()
+{
+    if (rooms.Count =3D=3D 0)
+        return;
+
+    startPosition =3D rooms[0].Center;
+    goalPosition =3D rooms[rooms.Count - 1].Center;
+
+    grid[startPosition.x, startPosition.y]
+        =3D TileType.Start;
+
+    grid[goalPosition.x, goalPosition.y]
+        =3D TileType.Goal;
+}</code></pre><hr>
+<h1 id=3D"64-versi-startgoal-yang-lebih-baik">64. Versi Start=E2=80=93Goal =
+yang Lebih Baik</h1><p>Room terakhir belum tentu room terjauh.</p>
+<p>Versi yang lebih baik adalah mencari:</p>
+<pre><code class=3D"hljs language-plaintext">room yang paling jauh dari Sta=
+rt</code></pre><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private DungeonRoom FindFarthe=
+stRoom(
+    Vector2Int position)
+{
+    DungeonRoom farthest =3D rooms[0];
+    float farthestDistance =3D 0f;
+
+    foreach (DungeonRoom room in rooms)
+    {
+        float distance =3D
+            Vector2Int.Distance(
+                position,
+                room.Center
+            );
+
+        if (distance &gt; farthestDistance)
+        {
+            farthestDistance =3D distance;
+            farthest =3D room;
+        }
+    }
+
+    return farthest;
+}</code></pre><p>Lalu ubah:</p>
+<pre><code class=3D"hljs language-plaintext">private void PlaceStartAndGoal=
+()
+{
+    if (rooms.Count =3D=3D 0)
+        return;
+
+    startPosition =3D rooms[0].Center;
+
+    DungeonRoom farthestRoom =3D
+        FindFarthestRoom(startPosition);
+
+    goalPosition =3D farthestRoom.Center;
+
+    grid[startPosition.x, startPosition.y]
+        =3D TileType.Start;
+
+    grid[goalPosition.x, goalPosition.y]
+        =3D TileType.Goal;
+}</code></pre><p>Ini lebih direkomendasikan.</p>
+<hr>
+<h1 id=3D"65-mengubah-grid-menjadi-scene-unity">65. Mengubah Grid menjadi S=
+cene Unity</h1><p>Sekarang data seperti:</p>
+<pre><code class=3D"hljs language-plaintext">Wall
+Floor
+Floor
+Wall
+Goal</code></pre><p>belum mempunyai visual.</p>
+<p>Kita perlu:</p>
+<pre><code class=3D"hljs language-plaintext">Grid Data
+=E2=86=93
+GameObject</code></pre><hr>
+<h1 id=3D"66-membuat-levelroot">66. Membuat LevelRoot</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void CreateLevelRoot()
+{
+    GameObject root =3D
+        new GameObject("GeneratedLevel");
+
+    levelRoot =3D root.transform;
+}</code></pre><hr>
+<h1 id=3D"67-builddungeon">67. BuildDungeon</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void BuildDungeon()
+{
+    CreateLevelRoot();
+
+    for (int x =3D 0; x &lt; mapWidth; x++)
+    {
+        for (int y =3D 0; y &lt; mapHeight; y++)
+        {
+            Vector3 worldPosition =3D
+                GridToWorld(x, y);
+
+            switch (grid[x, y])
+            {
+                case TileType.Floor:
+                case TileType.Start:
+                case TileType.Goal:
+
+                    Instantiate(
+                        floorPrefab,
+                        worldPosition,
+                        Quaternion.identity,
+                        levelRoot
+                    );
+
+                    break;
+            }
+
+            if (grid[x, y] =3D=3D TileType.Wall &amp;&amp;
+                IsWallVisible(x, y))
+            {
+                Instantiate(
+                    wallPrefab,
+                    worldPosition +
+                    Vector3.up * 0.5f,
+                    Quaternion.identity,
+                    levelRoot
+                );
+            }
+
+            if (grid[x, y] =3D=3D TileType.Goal)
+            {
+                Instantiate(
+                    goalPrefab,
+                    worldPosition +
+                    Vector3.up * 0.15f,
+                    Quaternion.identity,
+                    levelRoot
+                );
+            }
+        }
+    }
+}</code></pre><hr>
+<h1 id=3D"68-gridtoworld">68. GridToWorld</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private Vector3 GridToWorld(in=
+t x, int y)
+{
+    return new Vector3(
+        x * tileSize,
+        0f,
+        y * tileSize
+    );
+}</code></pre><p>Ini merupakan salah satu konsep Unity terpenting dalam pra=
+ktikum.</p>
+<p>Grid:</p>
+<pre><code class=3D"hljs language-plaintext">(x,y)</code></pre><p>diubah ke=
+ World:</p>
+<pre><code class=3D"hljs language-plaintext">(x,0,z)</code></pre><hr>
+<h1 id=3D"69-optimasi-wall">69. Optimasi Wall</h1><p>Tidak semua Wall perlu=
+ dibuat sebagai GameObject.</p>
+<p>Wall yang sangat jauh dari Floor tidak akan terlihat.</p>
+<p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private bool IsWallVisible(int=
+ x, int y)
+{
+    for (int dx =3D -1; dx &lt;=3D 1; dx++)
+    {
+        for (int dy =3D -1; dy &lt;=3D 1; dy++)
+        {
+            int nx =3D x + dx;
+            int ny =3D y + dy;
+
+            if (!IsInsideGrid(nx, ny))
+                continue;
+
+            if (grid[nx, ny] !=3D TileType.Wall)
+                return true;
+        }
+    }
+
+    return false;
+}</code></pre><p>Dengan ini hanya Wall yang berbatasan dengan area dungeon =
+yang di-render.</p>
+<hr>
+<h1 id=3D"70-mengapa-optimasi-ini-penting">70. Mengapa Optimasi Ini Penting=
+?</h1><p>Misalnya map:</p>
+<pre><code class=3D"hljs language-plaintext">60 =C3=97 40 =3D 2400 cell</co=
+de></pre><p>Jika semua Wall dibuat sebagai Cube, jumlah GameObject bisa men=
+jadi sangat banyak.</p>
+<p>Padahal Wall di area tertutup tidak terlihat dan tidak memiliki fungsi g=
+ameplay.</p>
+<p>Prinsip penting PCG:</p>
+<blockquote>
+<p>Jangan hanya memikirkan generation algorithm. Perhatikan juga biaya visu=
+alisasi hasil generation.</p>
+</blockquote>
+<hr>
+<h1 id=3D"71-spawn-gameplay-objects">71. Spawn Gameplay Objects</h1><p>Tamb=
+ahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void SpawnGameplayObje=
+cts()
+{
+    SpawnPlayer();
+    SpawnEnemies();
+    SpawnItems();
+}</code></pre><hr>
+<h1 id=3D"72-membuat-player">72. Membuat Player</h1><p>Buat:</p>
+<pre><code class=3D"hljs language-plaintext">GameObject =E2=86=92 3D Object=
+ =E2=86=92 Capsule</code></pre><p>Rename:</p>
+<pre><code class=3D"hljs language-plaintext">Player</code></pre><p>Tambahka=
+n:</p>
+<pre><code class=3D"hljs language-plaintext">CharacterController</code></pr=
+e><p>Buat Prefab:</p>
+<pre><code class=3D"hljs language-plaintext">PlayerPrefab</code></pre><hr>
+<h1 id=3D"73-simpleplayercontroller">73. SimplePlayerController</h1><p>Buat=
+:</p>
+<pre><code class=3D"hljs language-plaintext">SimplePlayerController.cs</cod=
+e></pre><p>Isi:</p>
+<pre><code class=3D"hljs language-plaintext">using UnityEngine;
+
+[RequireComponent(typeof(CharacterController))]
+public class SimplePlayerController : MonoBehaviour
+{
+    [SerializeField] private float moveSpeed =3D 5f;
+    [SerializeField] private float gravity =3D -9.81f;
+
+    private CharacterController controller;
+    private Vector3 velocity;
+
+    private void Awake()
+    {
+        controller =3D
+            GetComponent&lt;CharacterController&gt;();
+    }
+
+    private void Update()
+    {
+        float horizontal =3D
+            Input.GetAxisRaw("Horizontal");
+
+        float vertical =3D
+            Input.GetAxisRaw("Vertical");
+
+        Vector3 move =3D
+            new Vector3(
+                horizontal,
+                0f,
+                vertical
+            ).normalized;
+
+        controller.Move(
+            move *
+            moveSpeed *
+            Time.deltaTime
+        );
+
+        if (controller.isGrounded &amp;&amp;
+            velocity.y &lt; 0f)
+        {
+            velocity.y =3D -2f;
+        }
+
+        velocity.y +=3D
+            gravity *
+            Time.deltaTime;
+
+        controller.Move(
+            velocity *
+            Time.deltaTime
+        );
+    }
+}</code></pre><hr>
+<h1 id=3D"74-catatan-input-unity">74. Catatan Input Unity</h1><p>Jika proje=
+ct menggunakan konfigurasi Input lama / compatibility input, script tersebu=
+t dapat menggunakan:</p>
+<pre><code class=3D"hljs language-plaintext">Horizontal
+Vertical</code></pre><p>dengan kontrol default:</p>
+<pre><code class=3D"hljs language-plaintext">W / S
+A / D
+Arrow Keys</code></pre><p>Apabila project hanya menggunakan <strong>Input S=
+ystem</strong> baru, implementasi input perlu disesuaikan.</p>
+<p>Untuk fokus Praktikum PCG, penggunaan input sederhana sudah mencukupi.</=
+p>
+<hr>
+<h1 id=3D"75-spawn-player">75. Spawn Player</h1><p>Kembali ke <code>Dungeon=
+Generator.cs</code>.</p>
+<p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void SpawnPlayer()
+{
+    if (playerPrefab =3D=3D null)
+        return;
+
+    Vector3 position =3D
+        GridToWorld(
+            startPosition.x,
+            startPosition.y
+        );
+
+    Instantiate(
+        playerPrefab,
+        position + Vector3.up * 1f,
+        Quaternion.identity
+    );
+}</code></pre><p>Player muncul pada Start Room.</p>
+<hr>
+<h1 id=3D"76-membuat-enemy-prefab">76. Membuat Enemy Prefab</h1><p>Buat:</p=
+>
+<pre><code class=3D"hljs language-plaintext">Capsule</code></pre><p>Rename:=
+</p>
+<pre><code class=3D"hljs language-plaintext">EnemyPrefab</code></pre><p>Gun=
+akan material berbeda.</p>
+<p>Untuk Praktikum 10, Enemy belum harus memiliki AI kompleks.</p>
+<p>Tujuan utama:</p>
+<pre><code class=3D"hljs language-plaintext">procedural placement</code></p=
+re><hr>
+<h1 id=3D"77-simpleenemy">77. SimpleEnemy</h1><p>Opsional, buat:</p>
+<pre><code class=3D"hljs language-plaintext">using UnityEngine;
+
+public class SimpleEnemy : MonoBehaviour
+{
+    [SerializeField] private float rotationSpeed =3D 60f;
+
+    private void Update()
+    {
+        transform.Rotate(
+            Vector3.up,
+            rotationSpeed * Time.deltaTime
+        );
+    }
+}</code></pre><p>Ini hanya agar Enemy mudah dikenali.</p>
+<p>Mahasiswa dapat menggantinya dengan NPC AI dari praktikum sebelumnya.</p=
+>
+<hr>
+<h1 id=3D"78-random-floor-position">78. Random Floor Position</h1><p>Enemy =
+harus spawn pada:</p>
+<pre><code class=3D"hljs language-plaintext">Floor</code></pre><p>bukan Wal=
+l.</p>
+<p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private Vector2Int GetRandomFl=
+oorPosition()
+{
+    for (int attempt =3D 0;
+         attempt &lt; 100;
+         attempt++)
+    {
+        int x =3D Random.Range(1, mapWidth - 1);
+        int y =3D Random.Range(1, mapHeight - 1);
+
+        if (grid[x, y] =3D=3D TileType.Floor)
+        {
+            return new Vector2Int(x, y);
+        }
+    }
+
+    return startPosition;
+}</code></pre><hr>
+<h1 id=3D"79-spawn-enemy">79. Spawn Enemy</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void SpawnEnemies()
+{
+    if (enemyPrefab =3D=3D null)
+        return;
+
+    for (int i =3D 0; i &lt; enemyCount; i++)
+    {
+        Vector2Int gridPosition =3D
+            GetRandomFloorPosition();
+
+        float distanceFromStart =3D
+            Vector2Int.Distance(
+                gridPosition,
+                startPosition
+            );
+
+        if (distanceFromStart &lt; 8f)
+        {
+            i--;
+            continue;
+        }
+
+        Vector3 worldPosition =3D
+            GridToWorld(
+                gridPosition.x,
+                gridPosition.y
+            );
+
+        GameObject enemy =3D
+            Instantiate(
+                enemyPrefab,
+                worldPosition +
+                Vector3.up * 1f,
+                Quaternion.identity,
+                levelRoot
+            );
+
+        enemy.name =3D "Enemy_" + i;
+    }
+}</code></pre><hr>
+<h1 id=3D"80-constraint-pada-enemy">80. Constraint pada Enemy</h1><p>Perhat=
+ikan:</p>
+<pre><code class=3D"hljs language-plaintext">if (distanceFromStart &lt; 8f)=
+</code></pre><p>Ini merupakan contoh sederhana:</p>
+<h2 id=3D"constraint-based-pcg">Constraint-Based PCG</h2><p>Aturannya:</p>
+<pre><code class=3D"hljs language-plaintext">Enemy tidak boleh terlalu deka=
+t dengan Start.</code></pre><p>Random menentukan lokasi kandidat.</p>
+<p>Constraint menentukan:</p>
+<pre><code class=3D"hljs language-plaintext">lokasi tersebut boleh dipakai =
+atau tidak.</code></pre><hr>
+<h1 id=3D"81-membuat-item-prefab">81. Membuat Item Prefab</h1><p>Buat:</p>
+<pre><code class=3D"hljs language-plaintext">3D Object =E2=86=92 Sphere</co=
+de></pre><p>Rename:</p>
+<pre><code class=3D"hljs language-plaintext">ItemPrefab</code></pre><p>Scal=
+e:</p>
+<pre><code class=3D"hljs language-plaintext">0.3
+0.3
+0.3</code></pre><p>Tambahkan material.</p>
+<p>Buat Prefab.</p>
+<hr>
+<h1 id=3D"82-spawn-item">82. Spawn Item</h1><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void SpawnItems()
+{
+    if (itemPrefab =3D=3D null)
+        return;
+
+    for (int i =3D 0; i &lt; itemCount; i++)
+    {
+        Vector2Int gridPosition =3D
+            GetRandomFloorPosition();
+
+        Vector3 worldPosition =3D
+            GridToWorld(
+                gridPosition.x,
+                gridPosition.y
+            );
+
+        GameObject item =3D
+            Instantiate(
+                itemPrefab,
+                worldPosition +
+                Vector3.up * 0.5f,
+                Quaternion.identity,
+                levelRoot
+            );
+
+        item.name =3D "Item_" + i;
+    }
+}</code></pre><hr>
+<h1 id=3D"83-clear-dungeon">83. Clear Dungeon</h1><p>Agar generator dapat d=
+ijalankan kembali, dungeon lama perlu dihapus.</p>
+<p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void ClearDungeon()
+{
+    GameObject existing =3D
+        GameObject.Find("GeneratedLevel");
+
+    if (existing !=3D null)
+    {
+        Destroy(existing);
+    }
+
+    GameObject oldPlayer =3D
+        GameObject.FindWithTag("Player");
+
+    if (oldPlayer !=3D null)
+    {
+        Destroy(oldPlayer);
+    }
+}</code></pre><p>PlayerPrefab sebaiknya diberi:</p>
+<pre><code class=3D"hljs language-plaintext">Tag =3D Player</code></pre><hr=
+>
+<h1 id=3D"84-menyiapkan-dungeongenerator-di-inspector">84. Menyiapkan Dunge=
+onGenerator di Inspector</h1><p>Pilih:</p>
+<pre><code class=3D"hljs language-plaintext">DungeonGenerator</code></pre><=
+p>Tambahkan component:</p>
+<pre><code class=3D"hljs language-plaintext">DungeonGenerator.cs</code></pr=
+e><p>Isi Inspector:</p>
+<pre><code class=3D"hljs language-plaintext">Dungeon Size
+    Map Width       =3D 60
+    Map Height      =3D 40
+    Tile Size       =3D 1
+
+BSP Settings
+    Min Leaf Size   =3D 12
+    Max Leaf Size   =3D 20
+
+Room Settings
+    Min Room Size   =3D 5
+    Room Margin     =3D 2
+
+Generation
+    Seed            =3D 12345
+    Random Seed     =3D false
+
+Spawn Settings
+    Enemy Count     =3D 8
+    Item Count      =3D 5</code></pre><p>Drag Prefab:</p>
+<pre><code class=3D"hljs language-plaintext">Floor Prefab =E2=86=92 Floor P=
+refab
+Wall Prefab  =E2=86=92 Wall Prefab
+Goal Prefab  =E2=86=92 Goal Prefab
+Player       =E2=86=92 Player Prefab
+Enemy        =E2=86=92 Enemy Prefab
+Item         =E2=86=92 Item Prefab</code></pre><hr>
+<h1 id=3D"85-mengatur-kamera">85. Mengatur Kamera</h1><p>Untuk top-down vie=
+w, letakkan Main Camera kira-kira:</p>
+<pre><code class=3D"hljs language-plaintext">Position:
+X =3D mapWidth / 2
+Y =3D 45
+Z =3D mapHeight / 2</code></pre><p>Rotation:</p>
+<pre><code class=3D"hljs language-plaintext">X =3D 90
+Y =3D 0
+Z =3D 0</code></pre><p>Jika dungeon terlalu besar, tingkatkan nilai Y.</p>
+<hr>
+<h1 id=3D"86-pengujian-pertama">86. Pengujian Pertama</h1><p>Tekan:</p>
+<pre><code class=3D"hljs language-plaintext">Play</code></pre><p>Dungeon se=
+harusnya menghasilkan:</p>
+<pre><code class=3D"hljs language-plaintext">beberapa room
++
+corridor
++
+wall
++
+player
++
+goal
++
+enemy
++
+item</code></pre><p>Periksa Console.</p>
+<p>Output:</p>
+<pre><code class=3D"hljs language-plaintext">Dungeon generated with seed: 1=
+2345</code></pre><hr>
+<h1 id=3D"87-pengujian-seed">87. Pengujian Seed</h1><p>Gunakan:</p>
+<pre><code class=3D"hljs language-plaintext">Random Seed =3D false
+Seed =3D 12345</code></pre><p>Play.</p>
+<p>Catat bentuk dungeon.</p>
+<p>Stop.</p>
+<p>Play lagi.</p>
+<p>Dungeon seharusnya menghasilkan konfigurasi prosedural yang konsisten se=
+lama seluruh random sequence dan parameter generator juga sama.</p>
+<p>Kemudian ubah:</p>
+<pre><code class=3D"hljs language-plaintext">Seed =3D 999</code></pre><p>Du=
+ngeon akan berubah.</p>
+<hr>
+<h1 id=3D"88-mengapa-seed-sangat-penting">88. Mengapa Seed Sangat Penting?<=
+/h1><p>Bayangkan mahasiswa menemukan bug:</p>
+<pre><code class=3D"hljs language-plaintext">Player terjebak</code></pre><p=
+>Jika tidak menggunakan seed:</p>
+<pre><code class=3D"hljs language-plaintext">Run berikutnya dungeon sudah b=
+erubah.</code></pre><p>Bug sulit direproduksi.</p>
+<p>Dengan seed:</p>
+<pre><code class=3D"hljs language-plaintext">Bug ditemukan pada Seed 64521.=
+</code></pre><p>Developer dapat menggunakan:</p>
+<pre><code class=3D"hljs language-plaintext">Seed 64521</code></pre><p>dan =
+melihat layout yang sama kembali.</p>
+<hr>
+<h1 id=3D"89-debug-visualization-dengan-gizmos">89. Debug Visualization den=
+gan Gizmos</h1><p>Tambahkan ke <code>DungeonGenerator.cs</code>:</p>
+<pre><code class=3D"hljs language-plaintext">private void OnDrawGizmos()
+{
+    if (rooms =3D=3D null)
+        return;
+
+    Gizmos.color =3D Color.yellow;
+
+    foreach (DungeonRoom room in rooms)
+    {
+        Vector3 center =3D
+            new Vector3(
+                (room.x + room.width / 2f) * tileSize,
+                0.2f,
+                (room.y + room.height / 2f) * tileSize
+            );
+
+        Vector3 size =3D
+            new Vector3(
+                room.width * tileSize,
+                0.2f,
+                room.height * tileSize
+            );
+
+        Gizmos.DrawWireCube(
+            center,
+            size
+        );
+    }
+}</code></pre><hr>
+<h1 id=3D"90-apa-itu-gizmos">90. Apa Itu Gizmos?</h1><p>Gizmos adalah visua=
+l debugging di Unity Scene View.</p>
+<p>Gizmos tidak menjadi bagian utama visual game.</p>
+<p>Contoh kegunaan:</p>
+<ul>
+<li>melihat detection radius,</li>
+<li>melihat waypoint,</li>
+<li>melihat room boundary,</li>
+<li>melihat corridor,</li>
+<li>melihat sensor AI,</li>
+<li>melihat spawn point.</li>
+</ul>
+<p>Pada praktikum ini:</p>
+<pre><code class=3D"hljs language-plaintext">garis kuning =3D batas Room BS=
+P</code></pre><hr>
+<h1 id=3D"91-validasi-dungeon">91. Validasi Dungeon</h1><p>Dungeon procedur=
+al sebaiknya tidak langsung dianggap valid hanya karena terlihat benar.</p>
+<p>Beberapa <strong>hard constraint</strong>:</p>
+<pre><code class=3D"hljs language-plaintext">Room minimal satu.
+Start tersedia.
+Goal tersedia.
+Start berada pada floor.
+Goal berada pada floor.
+Start dan Goal terhubung.</code></pre><p>Beberapa <strong>soft constraint</=
+strong>:</p>
+<pre><code class=3D"hljs language-plaintext">Start dan Goal cukup jauh.
+Jumlah Enemy tidak terlalu banyak.
+Item tersebar.
+Room tidak terlalu kecil.
+Dungeon tidak terlalu linear.</code></pre><hr>
+<h1 id=3D"92-validasi-sederhana">92. Validasi Sederhana</h1><p>Tambahkan:</=
+p>
+<pre><code class=3D"hljs language-plaintext">private bool ValidateDungeon()
+{
+    if (rooms =3D=3D null || rooms.Count &lt; 2)
+    {
+        Debug.LogWarning(
+            "Dungeon invalid: jumlah room terlalu sedikit."
+        );
+
+        return false;
+    }
+
+    if (!IsInsideGrid(
+            startPosition.x,
+            startPosition.y))
+    {
+        return false;
+    }
+
+    if (!IsInsideGrid(
+            goalPosition.x,
+            goalPosition.y))
+    {
+        return false;
+    }
+
+    return true;
+}</code></pre><hr>
+<h1 id=3D"93-validasi-konektivitas-dengan-bfs">93. Validasi Konektivitas de=
+ngan BFS</h1><p>Versi lebih baik menggunakan:</p>
+<h2 id=3D"breadth-first-search">Breadth-First Search</h2><p>Tujuan:</p>
+<pre><code class=3D"hljs language-plaintext">Mulai dari Start
+=E2=86=93
+jelajahi seluruh Floor yang terhubung
+=E2=86=93
+apakah Goal ditemukan?</code></pre><p>Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private bool HasPathToGoal()
+{
+    bool[,] visited =3D
+        new bool[mapWidth, mapHeight];
+
+    Queue&lt;Vector2Int&gt; queue =3D
+        new Queue&lt;Vector2Int&gt;();
+
+    queue.Enqueue(startPosition);
+
+    visited[
+        startPosition.x,
+        startPosition.y
+    ] =3D true;
+
+    Vector2Int[] directions =3D
+    {
+        Vector2Int.up,
+        Vector2Int.down,
+        Vector2Int.left,
+        Vector2Int.right
+    };
+
+    while (queue.Count &gt; 0)
+    {
+        Vector2Int current =3D
+            queue.Dequeue();
+
+        if (current =3D=3D goalPosition)
+        {
+            return true;
+        }
+
+        foreach (Vector2Int direction
+                 in directions)
+        {
+            Vector2Int next =3D
+                current + direction;
+
+            if (!IsInsideGrid(
+                    next.x,
+                    next.y))
+            {
+                continue;
+            }
+
+            if (visited[
+                    next.x,
+                    next.y])
+            {
+                continue;
+            }
+
+            if (grid[
+                    next.x,
+                    next.y]
+                =3D=3D TileType.Wall)
+            {
+                continue;
+            }
+
+            visited[
+                next.x,
+                next.y
+            ] =3D true;
+
+            queue.Enqueue(next);
+        }
+    }
+
+    return false;
+}</code></pre><hr>
+<h1 id=3D"94-mengintegrasikan-validasi">94. Mengintegrasikan Validasi</h1><=
+p>Setelah:</p>
+<pre><code class=3D"hljs language-plaintext">PlaceStartAndGoal();</code></p=
+re><p>tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">if (!HasPathToGoal())
+{
+    Debug.LogWarning(
+        "Dungeon tidak valid: Goal tidak dapat dicapai."
+    );
+
+    return;
+}</code></pre><p>Secara ideal pipeline menjadi:</p>
+<pre><code class=3D"hljs language-plaintext">Generate
+=E2=86=93
+Validate
+=E2=86=93
+Build</code></pre><p>bukan:</p>
+<pre><code class=3D"hljs language-plaintext">Generate
+=E2=86=93
+Build
+=E2=86=93
+baru tahu salah</code></pre><hr>
+<h1 id=3D"95-hubungan-dengan-materi-pathfinding">95. Hubungan dengan Materi=
+ Pathfinding</h1><p>BFS pada praktikum ini bukan dipakai agar NPC bergerak.=
+</p>
+<p>BFS dipakai sebagai:</p>
+<pre><code class=3D"hljs language-plaintext">PCG Validation Tool</code></pr=
+e><p>Ini menunjukkan bahwa algoritma pathfinding dapat memiliki fungsi lain=
+.</p>
+<p>Materi pathfinding sebelumnya digunakan untuk:</p>
+<pre><code class=3D"hljs language-plaintext">NPC mencari jalan</code></pre>=
+<p>Sekarang digunakan untuk:</p>
+<pre><code class=3D"hljs language-plaintext">Generator memeriksa apakah lev=
+el dapat dimainkan</code></pre><hr>
+<h1 id=3D"96-constraint-based-generation">96. Constraint-Based Generation</=
+h1><p>Perhatikan struktur praktikum:</p>
+<pre><code class=3D"hljs language-plaintext">BSP
+=E2=86=93
+Generate Candidate
+=E2=86=93
+Start / Goal
+=E2=86=93
+Check Connectivity
+=E2=86=93
+Check Enemy Distance
+=E2=86=93
+Accept</code></pre><p>Artinya BSP dapat digabungkan dengan:</p>
+<pre><code class=3D"hljs language-plaintext">Constraint-Based Generation</c=
+ode></pre><p>BSP bertugas:</p>
+<pre><code class=3D"hljs language-plaintext">menghasilkan layout</code></pr=
+e><p>Constraint bertugas:</p>
+<pre><code class=3D"hljs language-plaintext">menentukan apakah layout layak=
+ digunakan</code></pre><hr>
+<h1 id=3D"97-menambahkan-regeneration">97. Menambahkan Regeneration</h1><p>=
+Tambahkan:</p>
+<pre><code class=3D"hljs language-plaintext">private void Update()
+{
+    if (Input.GetKeyDown(KeyCode.R))
+    {
+        seed++;
+        GenerateDungeon();
+    }
+}</code></pre><p>Ketika:</p>
+<pre><code class=3D"hljs language-plaintext">R</code></pre><p>ditekan:</p>
+<pre><code class=3D"hljs language-plaintext">seed bertambah
+=E2=86=93
+dungeon baru dibuat</code></pre><p>Ini sangat berguna untuk demonstrasi di =
+kelas.</p>
+<hr>
+<h1 id=3D"98-catatan-penting-cleardungeon">98. Catatan Penting ClearDungeon=
+</h1><p><code>Destroy()</code> tidak langsung menghancurkan Object pada bar=
+is kode tersebut; penghancuran dilakukan oleh Unity setelah siklus frame te=
+rkait.</p>
+<p>Karena itu, jika fungsi regenerate dikembangkan lebih lanjut, mahasiswa =
+sebaiknya memahami bahwa pengelolaan object runtime dan hierarchy perlu dil=
+akukan dengan hati-hati.</p>
+<p>Untuk praktikum dasar, pendekatan ini masih cukup.</p>
+<hr>
+<h1 id=3D"99-pengembangan-navmesh">99. Pengembangan: NavMesh</h1><p>Dungeon=
+ ini dapat dikembangkan menggunakan:</p>
+<pre><code class=3D"hljs language-plaintext">AI Navigation</code></pre><p>A=
+lur:</p>
+<pre><code class=3D"hljs language-plaintext">Generate Dungeon
+=E2=86=93
+Build NavMesh
+=E2=86=93
+Spawn Enemy
+=E2=86=93
+Enemy menggunakan NavMeshAgent</code></pre><p>Secara arsitektur:</p>
+<pre><code class=3D"hljs language-plaintext">Dungeon Generator
+        =E2=94=82
+        =E2=86=93
+Generated Geometry
+        =E2=94=82
+        =E2=86=93
+NavMeshSurface
+        =E2=94=82
+        =E2=86=93
+NavMesh
+        =E2=94=82
+        =E2=86=93
+Enemy NavMeshAgent</code></pre><p>Bagian ini direkomendasikan sebagai <stro=
+ng>pengembangan lanjutan</strong>, bukan keharusan minimum Praktikum 10.</p=
+>
+<hr>
+<h1 id=3D"100-mengapa-navmesh-cocok-untuk-bsp">100. Mengapa NavMesh Cocok u=
+ntuk BSP?</h1><p>Dungeon BSP menghasilkan:</p>
+<pre><code class=3D"hljs language-plaintext">room rectangular
++
+corridor</code></pre><p>Sehingga area walkable relatif jelas.</p>
+<p>Ini membuat BSP sangat mudah dikembangkan menjadi environment untuk:</p>
+<pre><code class=3D"hljs language-plaintext">NPC Guard
+FSM Enemy
+Behavior Tree
+Utility AI
+Tactical AI</code></pre><p>yang telah dipelajari pada pertemuan sebelumnya.=
+</p>
+<hr>
+<h1 id=3D"101-hierarchy-akhir">101. Hierarchy Akhir</h1><p>Saat Play:</p>
+<pre><code class=3D"hljs language-plaintext">PCG_Dungeon_Scene
+=E2=94=82
+=E2=94=9C=E2=94=80=E2=94=80 Main Camera
+=E2=94=9C=E2=94=80=E2=94=80 Directional Light
+=E2=94=9C=E2=94=80=E2=94=80 DungeonGenerator
+=E2=94=82
+=E2=94=9C=E2=94=80=E2=94=80 GeneratedLevel
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 FloorPrefab(Clone)
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 FloorPrefab(Clone)
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 ...
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 WallPrefab(Clone)
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 ...
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 GoalPrefab(Clone)
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 Enemy_0
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 Enemy_1
+=E2=94=82   =E2=94=9C=E2=94=80=E2=94=80 ...
+=E2=94=82   =E2=94=94=E2=94=80=E2=94=80 Item_0
+=E2=94=82
+=E2=94=94=E2=94=80=E2=94=80 PlayerPrefab(Clone)</code></pre><hr>
+<h1 id=3D"102-eksperimen-1-seed">102. Eksperimen 1 =E2=80=94 Seed</h1><p>Uj=
+i:</p>
+<pre><code class=3D"hljs language-plaintext">Seed 100
+Seed 200
+Seed 300
+Seed 400
+Seed 500</code></pre><p>Catat:</p>
+<ul>
+<li>jumlah room,</li>
+<li>bentuk room,</li>
+<li>panjang corridor,</li>
+<li>posisi Goal.</li>
+</ul>
+<p>Pertanyaan:</p>
+<blockquote>
+<p>Mengapa hanya mengubah satu angka dapat menghasilkan dungeon yang berbed=
+a?</p>
+</blockquote>
+<hr>
+<h1 id=3D"103-eksperimen-2-min-leaf-size">103. Eksperimen 2 =E2=80=94 Min L=
+eaf Size</h1><p>Uji:</p>
+<pre><code class=3D"hljs language-plaintext">minLeafSize =3D 8
+minLeafSize =3D 12
+minLeafSize =3D 16</code></pre><p>Amati:</p>
+<pre><code class=3D"hljs language-plaintext">jumlah area BSP
+jumlah room
+ukuran room</code></pre><p>Hipotesis:</p>
+<pre><code class=3D"hljs language-plaintext">minLeafSize kecil
+=E2=86=92 lebih banyak kemungkinan area kecil
+
+minLeafSize besar
+=E2=86=92 lebih sedikit area tetapi lebih besar</code></pre><hr>
+<h1 id=3D"104-eksperimen-3-room-margin">104. Eksperimen 3 =E2=80=94 Room Ma=
+rgin</h1><p>Bandingkan:</p>
+<pre><code class=3D"hljs language-plaintext">roomMargin =3D 1
+roomMargin =3D 2
+roomMargin =3D 4</code></pre><p>Perhatikan jarak room terhadap batas Leaf.<=
+/p>
+<hr>
+<h1 id=3D"105-eksperimen-4-ukuran-dungeon">105. Eksperimen 4 =E2=80=94 Ukur=
+an Dungeon</h1><p>Bandingkan:</p>
+<pre><code class=3D"hljs language-plaintext">40 =C3=97 30
+60 =C3=97 40
+80 =C3=97 60</code></pre><p>Perhatikan:</p>
+<ul>
+<li>jumlah tile,</li>
+<li>jumlah GameObject,</li>
+<li>waktu generation,</li>
+<li>ukuran dungeon.</li>
+</ul>
+<hr>
+<h1 id=3D"106-eksperimen-5-enemy-density">106. Eksperimen 5 =E2=80=94 Enemy=
+ Density</h1><p>Bandingkan:</p>
+<pre><code class=3D"hljs language-plaintext">Enemy Count =3D 5
+Enemy Count =3D 10
+Enemy Count =3D 20</code></pre><p>Diskusikan:</p>
+<blockquote>
+<p>Apakah jumlah Enemy seharusnya menjadi angka absolut atau disesuaikan de=
+ngan luas Floor?</p>
+</blockquote>
+<hr>
+<h1 id=3D"107-pengembangan-enemy-density">107. Pengembangan Enemy Density</=
+h1><p>Versi lebih baik:</p>
+<pre><code class=3D"hljs language-plaintext">Enemy density =3D
+jumlah enemy / jumlah floor</code></pre><p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">1 enemy setiap 50 floor tile</=
+code></pre><p>Dengan demikian:</p>
+<pre><code class=3D"hljs language-plaintext">Dungeon kecil =E2=86=92 Enemy =
+sedikit
+Dungeon besar =E2=86=92 Enemy lebih banyak</code></pre><hr>
+<h1 id=3D"108-eksperimen-6-startgoal">108. Eksperimen 6 =E2=80=94 Start/Goa=
+l</h1><p>Bandingkan:</p>
+<h2 id=3D"strategi-a">Strategi A</h2><pre><code class=3D"hljs language-plai=
+ntext">First Room
+=E2=86=92 Last Room</code></pre><h2 id=3D"strategi-b">Strategi B</h2><pre><=
+code class=3D"hljs language-plaintext">First Room
+=E2=86=92 Geometrically Farthest Room</code></pre><h2 id=3D"strategi-c">Str=
+ategi C</h2><pre><code class=3D"hljs language-plaintext">Start
+=E2=86=92 Room dengan shortest-path distance terpanjang</code></pre><p>Stra=
+tegi C paling baik tetapi membutuhkan perhitungan graph/grid distance.</p>
+<hr>
+<h1 id=3D"109-kesalahan-umum-1">109. Kesalahan Umum 1</h1><h2 id=3D"dungeon=
+-tidak-muncul">Dungeon tidak muncul</h2><p>Periksa:</p>
+<pre><code class=3D"hljs language-plaintext">DungeonGenerator.cs sudah dipa=
+sang?
+Prefab sudah dimasukkan Inspector?
+Ada error di Console?</code></pre><hr>
+<h1 id=3D"110-kesalahan-umum-2">110. Kesalahan Umum 2</h1><h2 id=3D"nullref=
+erenceexception">NullReferenceException</h2><p>Kemungkinan:</p>
+<pre><code class=3D"hljs language-plaintext">floorPrefab kosong
+wallPrefab kosong
+playerPrefab kosong</code></pre><p>Periksa Inspector.</p>
+<hr>
+<h1 id=3D"111-kesalahan-umum-3">111. Kesalahan Umum 3</h1><h2 id=3D"indexou=
+tofrangeexception">IndexOutOfRangeException</h2><p>Penyebab umum:</p>
+<pre><code class=3D"hljs language-plaintext">mengakses grid[x,y]</code></pr=
+e><p>dengan:</p>
+<pre><code class=3D"hljs language-plaintext">x &lt; 0
+atau
+x &gt;=3D mapWidth</code></pre><p>Gunakan:</p>
+<pre><code class=3D"hljs language-plaintext">IsInsideGrid()</code></pre><p>=
+sebelum mengakses cell ketika koordinat berpotensi keluar batas.</p>
+<hr>
+<h1 id=3D"112-kesalahan-umum-4">112. Kesalahan Umum 4</h1><h2 id=3D"room-te=
+rlalu-sedikit">Room terlalu sedikit</h2><p>Periksa:</p>
+<pre><code class=3D"hljs language-plaintext">Map terlalu kecil
+Min Leaf Size terlalu besar
+Max Leaf Size terlalu besar
+Room Margin terlalu besar</code></pre><hr>
+<h1 id=3D"113-kesalahan-umum-5">113. Kesalahan Umum 5</h1><h2 id=3D"dungeon=
+-terlalu-padat">Dungeon terlalu padat</h2><p>Kurangi:</p>
+<pre><code class=3D"hljs language-plaintext">minRoomSize</code></pre><p>ata=
+u tambah:</p>
+<pre><code class=3D"hljs language-plaintext">roomMargin</code></pre><hr>
+<h1 id=3D"114-kesalahan-umum-6">114. Kesalahan Umum 6</h1><h2 id=3D"corrido=
+r-terlalu-sempit">Corridor terlalu sempit</h2><p>Versi kita menggunakan:</p=
+>
+<pre><code class=3D"hljs language-plaintext">corridorWidth =3D 1</code></pr=
+e><p>Sebagai pengembangan, mahasiswa dapat membuat:</p>
+<pre><code class=3D"hljs language-plaintext">corridorWidth =3D 2</code></pr=
+e><p>atau:</p>
+<pre><code class=3D"hljs language-plaintext">3</code></pre><hr>
+<h1 id=3D"115-corridor-width-2">115. Corridor Width 2</h1><p>Contoh modifik=
+asi horizontal:</p>
+<pre><code class=3D"hljs language-plaintext">private void CarveHorizontalWi=
+de(
+    int x1,
+    int x2,
+    int y,
+    int width)
+{
+    int start =3D Mathf.Min(x1, x2);
+    int end =3D Mathf.Max(x1, x2);
+
+    for (int x =3D start; x &lt;=3D end; x++)
+    {
+        for (int offset =3D 0;
+             offset &lt; width;
+             offset++)
+        {
+            int targetY =3D y + offset;
+
+            if (IsInsideGrid(x, targetY))
+            {
+                grid[x, targetY]
+                    =3D TileType.Floor;
+            }
+        }
+    }
+}</code></pre><hr>
+<h1 id=3D"116-pengembangan-boss-room">116. Pengembangan Boss Room</h1><p>Go=
+al Room dapat diubah menjadi:</p>
+<pre><code class=3D"hljs language-plaintext">Boss Room</code></pre><p>Strat=
+egi:</p>
+<pre><code class=3D"hljs language-plaintext">Start Room
+=E2=86=93
+hitung room terjauh
+=E2=86=93
+Goal Room
+=E2=86=93
+Boss Spawn</code></pre><p>Constraint:</p>
+<pre><code class=3D"hljs language-plaintext">Boss hanya boleh spawn di Goal=
+ Room.</code></pre><hr>
+<h1 id=3D"117-pengembangan-treasure">117. Pengembangan Treasure</h1><p>Trea=
+sure sebaiknya tidak sepenuhnya random.</p>
+<p>Contoh rule:</p>
+<pre><code class=3D"hljs language-plaintext">Treasure berada di room
+yang tidak memiliki Start atau Goal.</code></pre><p>Pengembangan lebih lanj=
+ut:</p>
+<pre><code class=3D"hljs language-plaintext">Treasure ditempatkan pada dead=
+-end.</code></pre><p>Ini membuat exploration mempunyai reward.</p>
+<hr>
+<h1 id=3D"118-hard-constraint-dan-soft-constraint">118. Hard Constraint dan=
+ Soft Constraint</h1><h2 id=3D"hard-constraint">Hard Constraint</h2><p>Waji=
+b benar.</p>
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">Start tersedia.
+Goal tersedia.
+Start=E2=80=93Goal memiliki path.
+Player tidak spawn di Wall.
+Enemy tidak spawn di Wall.</code></pre><p>Jika gagal:</p>
+<pre><code class=3D"hljs language-plaintext">Dungeon invalid.</code></pre><=
+h2 id=3D"soft-constraint">Soft Constraint</h2><p>Lebih baik terpenuhi.</p>
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">Goal jauh dari Start.
+Enemy tersebar merata.
+Treasure ada di room samping.
+Dungeon tidak terlalu linear.</code></pre><hr>
+<h1 id=3D"119-generate-and-test">119. Generate-and-Test</h1><p>Dungeon gene=
+rator profesional sering menggunakan pola:</p>
+<pre><code class=3D"hljs language-plaintext">Generate
+=E2=86=93
+Test
+=E2=86=93
+Valid?
+=E2=94=9C=E2=94=80=E2=94=80 YES =E2=86=92 Use
+=E2=94=94=E2=94=80=E2=94=80 NO  =E2=86=92 Regenerate</code></pre><p>Untuk p=
+raktikum dapat dibuat:</p>
+<pre><code class=3D"hljs language-plaintext">maxGenerationAttempts =3D 10</=
+code></pre><p>sehingga generator tidak mencoba tanpa batas.</p>
+<hr>
+<h1 id=3D"120-metrics-dungeon">120. Metrics Dungeon</h1><p>Untuk tugas peng=
+embangan, mahasiswa dapat mencatat:</p>
+<pre><code class=3D"hljs language-plaintext">Room Count
+Floor Count
+Wall Count
+Corridor Length
+Start=E2=80=93Goal Distance
+Enemy Count
+Item Count
+Floor Percentage</code></pre><p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">Seed           : 12450
+Rooms          : 8
+Floor Tiles    : 620
+StartGoalDist  : 47
+Enemies        : 8
+Items          : 5</code></pre><hr>
+<h1 id=3D"121-mengapa-metrics-penting">121. Mengapa Metrics Penting?</h1><p=
+>Tanpa metrics mahasiswa hanya mengatakan:</p>
+<pre><code class=3D"hljs language-plaintext">"Dungeon ini terlihat bagus."<=
+/code></pre><p>Dengan metrics:</p>
+<pre><code class=3D"hljs language-plaintext">Seed A
+Path Length =3D 30
+
+Seed B
+Path Length =3D 65</code></pre><p>Kita mempunyai data yang dapat dibandingk=
+an.</p>
+<p>PCG tidak hanya dapat dievaluasi secara visual tetapi juga secara kuanti=
+tatif.</p>
+<hr>
+<h1 id=3D"122-hubungan-dengan-dynamic-difficulty-adjustment">122. Hubungan =
+dengan Dynamic Difficulty Adjustment</h1><p>Praktikum ini merupakan fondasi=
+ untuk materi berikutnya.</p>
+<p>PCG dapat menerima parameter seperti:</p>
+<pre><code class=3D"hljs language-plaintext">Enemy Count
+Item Count
+Dungeon Size
+Room Count
+Path Length</code></pre><p>Kemudian DDA dapat mengubahnya.</p>
+<p>Contoh:</p>
+<pre><code class=3D"hljs language-plaintext">Player terlalu kuat
+
+=E2=86=93=20
+
+enemyCount +=3D 3
+itemCount -=3D 1
+dungeonSize meningkat</code></pre><p>Atau:</p>
+<pre><code class=3D"hljs language-plaintext">Player kesulitan
+
+=E2=86=93
+
+enemyCount berkurang
+itemCount bertambah
+path lebih pendek</code></pre><hr>
+<h1 id=3D"123-perbandingan-dengan-random-walk">123. Perbandingan dengan Ran=
+dom Walk</h1><h2 id=3D"bsp">BSP</h2><p>Hasil:</p>
+<pre><code class=3D"hljs language-plaintext">Room
+=E2=94=82
+Corridor
+=E2=94=82
+Room</code></pre><p>Karakter:</p>
+<pre><code class=3D"hljs language-plaintext">Terstruktur
+Rectangular
+Mudah digunakan untuk combat room</code></pre><h2 id=3D"random-walk">Random=
+ Walk</h2><p>Hasil:</p>
+<pre><code class=3D"hljs language-plaintext">jalur organik dan berliku</cod=
+e></pre><p>Karakter:</p>
+<pre><code class=3D"hljs language-plaintext">Natural
+Tidak terlalu terstruktur
+Cocok untuk cave</code></pre><hr>
+<h1 id=3D"124-perbandingan-dengan-cellular-automata">124. Perbandingan deng=
+an Cellular Automata</h1><h2 id=3D"bsp">BSP</h2><p>Cocok:</p>
+<pre><code class=3D"hljs language-plaintext">Dungeon
+Building
+Facility
+Laboratory
+RPG Room</code></pre><h2 id=3D"cellular-automata">Cellular Automata</h2><p>=
+Cocok:</p>
+<pre><code class=3D"hljs language-plaintext">Cave
+Natural cavern
+Underground environment
+Alien nest</code></pre><p>Cellular Automata membutuhkan perhatian lebih bes=
+ar terhadap region yang terputus.</p>
+<hr>
+<h1 id=3D"125-rekomendasi-tingkat-praktikum">125. Rekomendasi Tingkat Prakt=
+ikum</h1><h2 id=3D"wajib">Wajib</h2><p>Mahasiswa harus menyelesaikan:</p>
+<pre><code class=3D"hljs language-plaintext">Grid
+Seed
+BSP
+Room
+Corridor
+Start
+Goal
+Floor
+Wall
+Player
+Enemy Placement
+Item Placement</code></pre><h2 id=3D"pengembangan">Pengembangan</h2><p>Mini=
+mal satu:</p>
+<pre><code class=3D"hljs language-plaintext">BFS Validation
+NavMesh
+Boss Room
+Treasure Room
+Runtime Regeneration
+Dungeon Metrics
+Improved Goal Placement</code></pre><hr>
+<h1 id=3D"126-tugas-eksperimen">126. Tugas Eksperimen</h1><p>Mahasiswa mela=
+kukan minimal <strong>5 generation</strong> menggunakan seed berbeda.</p>
+<p>Contoh tabel:</p>
+<table>
+<thead>
+<tr>
+<th>Seed</th>
+<th align=3D"right">Rooms</th>
+<th align=3D"right">Enemy</th>
+<th align=3D"right">Item</th>
+<th align=3D"right">Start=E2=80=93Goal Distance</th>
+<th>Valid</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>101</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td>Yes/No</td>
+</tr>
+<tr>
+<td>202</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td>Yes/No</td>
+</tr>
+<tr>
+<td>303</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td>Yes/No</td>
+</tr>
+<tr>
+<td>404</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td>Yes/No</td>
+</tr>
+<tr>
+<td>505</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td align=3D"right">...</td>
+<td>Yes/No</td>
+</tr>
+</tbody></table>
+<p>Kemudian mahasiswa menjelaskan:</p>
+<ol>
+<li>pengaruh seed,</li>
+<li>pengaruh parameter BSP,</li>
+<li>kualitas struktur dungeon,</li>
+<li>konektivitas,</li>
+<li>variasi antar-level.</li>
+</ol>
+<hr>
+<h1 id=3D"127-pertanyaan-analisis">127. Pertanyaan Analisis</h1><p>Jawab pa=
+da laporan:</p>
+<ol>
+<li><p>Apa perbedaan random dan procedural generation?</p>
+</li>
+<li><p>Mengapa level procedural tidak cukup hanya menggunakan random?</p>
+</li>
+<li><p>Mengapa diperlukan seed?</p>
+</li>
+<li><p>Apa fungsi grid pada dungeon generator?</p>
+</li>
+<li><p>Mengapa BSP cocok untuk room-based dungeon?</p>
+</li>
+<li><p>Apa yang dimaksud Leaf dalam BSP?</p>
+</li>
+<li><p>Mengapa Room tidak dibuat memenuhi seluruh Leaf?</p>
+</li>
+<li><p>Apa fungsi corridor?</p>
+</li>
+<li><p>Mengapa corridor berbentuk L mudah digunakan?</p>
+</li>
+<li><p>Apa yang dimaksud hard constraint?</p>
+</li>
+<li><p>Apa yang dimaksud soft constraint?</p>
+</li>
+<li><p>Mengapa Enemy tidak boleh spawn dekat Start?</p>
+</li>
+<li><p>Mengapa level perlu divalidasi?</p>
+</li>
+<li><p>Bagaimana BFS dapat memvalidasi dungeon?</p>
+</li>
+<li><p>Apa keuntungan menggabungkan PCG dengan NavMesh dan AI?</p>
+</li>
+</ol>
+<hr>
+<h1 id=3D"128-checklist-keberhasilan-praktikum">128. Checklist Keberhasilan=
+ Praktikum</h1><p>Dungeon dinyatakan berhasil jika:</p>
+<ul>
+<li><input disabled=3D"" type=3D"checkbox"> Project Unity berhasil berjalan=
+.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Dungeon dibuat secara procedura=
+l.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Dungeon menggunakan grid.</li>
+<li><input disabled=3D"" type=3D"checkbox"> BSP membagi area dungeon.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Room berhasil dibuat.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Corridor berhasil menghubungkan=
+ room.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Floor berhasil dibuat dari grid=
+.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Wall berhasil dibuat.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Player muncul pada Start.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Goal muncul pada lokasi valid.<=
+/li>
+<li><input disabled=3D"" type=3D"checkbox"> Enemy hanya muncul pada Floor.<=
+/li>
+<li><input disabled=3D"" type=3D"checkbox"> Enemy tidak terlalu dekat Start=
+.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Item muncul pada Floor.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Seed dapat diubah.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Seed berbeda menghasilkan varia=
+si dungeon.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Seed yang sama dapat digunakan =
+untuk mereproduksi generation.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Tidak muncul error pada Console=
+.</li>
+<li><input disabled=3D"" type=3D"checkbox"> Dungeon dapat dimainkan.</li>
+</ul>
+<hr>
+<h1 id=3D"129-rekomendasi-pengembangan-terbaik">129. Rekomendasi Pengembang=
+an Terbaik</h1><p>Setelah versi dasar berhasil, urutan pengembangan yang sa=
+ya rekomendasikan:</p>
+<pre><code class=3D"hljs language-plaintext">Tahap 1
+BSP Dungeon
+        =E2=86=93
+Tahap 2
+BFS Validation
+        =E2=86=93
+Tahap 3
+Farthest Goal Placement
+        =E2=86=93
+Tahap 4
+Enemy + Item Constraint
+        =E2=86=93
+Tahap 5
+Runtime NavMesh
+        =E2=86=93
+Tahap 6
+Enemy AI
+        =E2=86=93
+Tahap 7
+Boss / Treasure Room
+        =E2=86=93
+Tahap 8
+Dungeon Metrics</code></pre><p>Urutan ini menjaga agar kompleksitas bertamb=
+ah secara bertahap.</p>
+<hr>
+<h1 id=3D"130-rekomendasi-praktikum-utama">130. Rekomendasi Praktikum Utama=
+</h1><p>Dari teknik yang dibahas pada Pertemuan 10:</p>
+<pre><code class=3D"hljs language-plaintext">Grid Random Fill
+Random Walk
+BSP
+Cellular Automata
+Constraint-Based Generation</code></pre><p>pilihan yang paling sesuai untuk=
+ praktikum utama adalah:</p>
+<h1 id=3D"bsp-roomcorridor-dungeon-constraint-validation">BSP ROOM=E2=80=93=
+CORRIDOR DUNGEON + CONSTRAINT VALIDATION</h1><p>Alasannya:</p>
+<ol>
+<li>merepresentasikan materi PCG dengan jelas,</li>
+<li>memperlihatkan hubungan data dan visual Unity,</li>
+<li>hasil mudah diamati mahasiswa,</li>
+<li>procedural tetapi tetap terstruktur,</li>
+<li>mudah menjamin konektivitas,</li>
+<li>mudah dikembangkan,</li>
+<li>cocok untuk NavMesh,</li>
+<li>cocok untuk NPC AI,</li>
+<li>dapat menggunakan materi Pathfinding sebelumnya,</li>
+<li>cocok menjadi dasar mini-project dungeon crawler.</li>
+</ol>
+<hr>
+<h1 id=3D"131-alternatif-praktikum-yang-lebih-mudah">131. Alternatif Prakti=
+kum yang Lebih Mudah</h1><p>Jika waktu praktikum terbatas, gunakan:</p>
+<h1 id=3D"random-walk-dungeon">RANDOM WALK DUNGEON</h1><p>Pipeline:</p>
+<pre><code class=3D"hljs language-plaintext">Create Grid
+=E2=86=93
+Fill Wall
+=E2=86=93
+Start dari tengah
+=E2=86=93
+Random Walk
+=E2=86=93
+Carve Floor
+=E2=86=93
+Pilih Floor terjauh sebagai Goal
+=E2=86=93
+Spawn Enemy
+=E2=86=93
+Build Level</code></pre><p>Random Walk lebih mudah diimplementasikan tetapi=
+ tidak memberikan struktur room=E2=80=93corridor sejelas BSP.</p>
+<hr>
+<h1 id=3D"132-alternatif-praktikum-lanjutan">132. Alternatif Praktikum Lanj=
+utan</h1><p>Untuk mahasiswa yang ingin tantangan lebih tinggi:</p>
+<h1 id=3D"hybrid-procedural-dungeon">HYBRID PROCEDURAL DUNGEON</h1><p>Gunak=
+an:</p>
+<pre><code class=3D"hljs language-plaintext">BSP
+=E2=86=93
+Room Generation
+=E2=86=93
+L-Corridor
+=E2=86=93
+Constraint Validation
+=E2=86=93
+BFS Distance
+=E2=86=93
+Boss Room
+=E2=86=93
+Treasure Room
+=E2=86=93
+Enemy Distribution
+=E2=86=93
+Runtime NavMesh
+=E2=86=93
+Enemy AI</code></pre><p>Pendekatan ini sangat cocok dijadikan basis pengemb=
+angan project lebih besar.</p>
+<hr>
+<h1 id=3D"133-nama-project-final">133. Nama Project Final</h1><h2 id=3D"rek=
+omendasi-utama">Rekomendasi utama</h2><pre><code class=3D"hljs language-pla=
+intext">GameCerdas_P10_PCG_BSP_Dungeon</code></pre><h2 id=3D"nama-scene">Na=
+ma Scene</h2><pre><code class=3D"hljs language-plaintext">PCG_Dungeon_Scene=
+</code></pre><h2 id=3D"nama-generator">Nama generator</h2><pre><code class=
+=3D"hljs language-plaintext">DungeonGenerator</code></pre><h2 id=3D"nama-ro=
+ot-runtime">Nama root runtime</h2><pre><code class=3D"hljs language-plainte=
+xt">GeneratedLevel</code></pre><p>Nama project ini jelas menunjukkan:</p>
+<pre><code class=3D"hljs language-plaintext">Game Cerdas
+Pertemuan 10
+Procedural Content Generation
+Binary Space Partitioning
+Dungeon</code></pre><hr>
+<h1 id=3D"134-kesimpulan">134. Kesimpulan</h1><p>Pada praktikum ini mahasis=
+wa tidak sekadar membuat dungeon acak.</p>
+<p>Mahasiswa membangun sebuah pipeline:</p>
+<pre><code class=3D"hljs language-plaintext">Representasi Data
+        =E2=86=93
+Procedural Algorithm
+        =E2=86=93
+Random Seed
+        =E2=86=93
+BSP Partitioning
+        =E2=86=93
+Room Generation
+        =E2=86=93
+Corridor Generation
+        =E2=86=93
+Constraint
+        =E2=86=93
+Validation
+        =E2=86=93
+Unity Scene Building
+        =E2=86=93
+Gameplay Object Placement</code></pre><p>Konsep paling penting adalah:</p>
+<pre><code class=3D"hljs language-plaintext">PCG =E2=89=A0 Random</code></p=
+re><p>melainkan:</p>
+<pre><code class=3D"hljs language-plaintext">PCG
+=3D
+Randomness
++
+Algorithm
++
+Rule
++
+Constraint
++
+Validation
++
+Design Goal</code></pre><p>Dungeon yang baik bukan dungeon yang sekadar ber=
+beda setiap kali dibuat.</p>
+<p>Dungeon yang baik harus:</p>
+<pre><code class=3D"hljs language-plaintext">bervariasi
++
+terhubung
++
+dapat dimainkan
++
+mempunyai tujuan
++
+memiliki tantangan
++
+dapat divalidasi</code></pre><p>Dengan demikian, praktikum ini menjadi peng=
+hubung antara:</p>
+<pre><code class=3D"hljs language-plaintext">PCG Fundamentals
+Pathfinding
+Game AI
+Procedural Level Design</code></pre><p>dan materi berikutnya:</p>
+<pre><code class=3D"hljs language-plaintext">Dynamic Difficulty Adjustment<=
+/code></pre></article></div></div></section></main></div></div>
+ =20
+
+</body></html>
+------MultipartBoundary--9pmeuc7mrKiknLSJAPszqho4jtOOFpOjFm8cCB03mW----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://darlis-its.github.io/materi-gim-cerdas/assets/index-BDO1nCGl.css
+
+@charset "utf-8";
+
+pre code.hljs { display: block; overflow-x: auto; padding: 1em; }
+
+code.hljs { padding: 3px 5px; }
+
+.hljs { color: rgb(201, 209, 217); background: rgb(13, 17, 23); }
+
+.hljs-doctag, .hljs-keyword, .hljs-meta .hljs-keyword, .hljs-template-tag, =
+.hljs-template-variable, .hljs-type, .hljs-variable.language_ { color: rgb(=
+255, 123, 114); }
+
+.hljs-title, .hljs-title.class_, .hljs-title.class_.inherited__, .hljs-titl=
+e.function_ { color: rgb(210, 168, 255); }
+
+.hljs-attr, .hljs-attribute, .hljs-literal, .hljs-meta, .hljs-number, .hljs=
+-operator, .hljs-variable, .hljs-selector-attr, .hljs-selector-class, .hljs=
+-selector-id { color: rgb(121, 192, 255); }
+
+.hljs-regexp, .hljs-string, .hljs-meta .hljs-string { color: rgb(165, 214, =
+255); }
+
+.hljs-built_in, .hljs-symbol { color: rgb(255, 166, 87); }
+
+.hljs-comment, .hljs-code, .hljs-formula { color: rgb(139, 148, 158); }
+
+.hljs-name, .hljs-quote, .hljs-selector-tag, .hljs-selector-pseudo { color:=
+ rgb(126, 231, 135); }
+
+.hljs-subst { color: rgb(201, 209, 217); }
+
+.hljs-section { color: rgb(31, 111, 235); font-weight: 700; }
+
+.hljs-bullet { color: rgb(242, 204, 96); }
+
+.hljs-emphasis { color: rgb(201, 209, 217); font-style: italic; }
+
+.hljs-strong { color: rgb(201, 209, 217); font-weight: 700; }
+
+.hljs-addition { color: rgb(175, 245, 180); background-color: rgb(3, 58, 22=
+); }
+
+.hljs-deletion { color: rgb(255, 220, 215); background-color: rgb(103, 6, 1=
+2); }
+
+:root { color-scheme: dark; --bg: #040b1d; --bg-soft: #07142b; --panel: #08=
+162f; --panel-2: #0d2140; --line: #17325f; --line-strong: #1d5a91; --text: =
+#eef7ff; --muted: #a9c3d8; --faint: #6f91b0; --accent: #18d6ff; --accent-2:=
+ #7c5cff; --accent-soft: #5fe8ff; --radius-sm: 12px; --radius: 18px; --radi=
+us-lg: 26px; --bg-overlay-start: color-mix(in srgb, var(--bg) 34%, transpar=
+ent); --bg-overlay-end: color-mix(in srgb, var(--bg) 54%, transparent); --h=
+ero-orb-bg: radial-gradient(circle at 30% 22%, rgba(77, 225, 255, .42), tra=
+nsparent 28%), linear-gradient(135deg, #0d4fd8 0%, #082e87 42%, #031538 100=
+%); --hero-orb-color: #effcff; --hero-orb-border: rgba(80, 225, 255, .52); =
+--learning-bg-image: none; --glass-bg: color-mix(in srgb, var(--panel) 58%,=
+ transparent); --glass-bg-strong: color-mix(in srgb, var(--panel) 72%, tran=
+sparent); --glass-bg-soft: color-mix(in srgb, var(--panel-2) 48%, transpare=
+nt); --glass-border: color-mix(in srgb, var(--line-strong) 70%, transparent=
+); --glass-shadow: 0 24px 70px rgba(0, 0, 0, .32), 0 0 34px rgba(24, 214, 2=
+55, .08); --glass-shadow-soft: 0 14px 40px rgba(0, 0, 0, .22), 0 0 22px rgb=
+a(24, 214, 255, .06); font-family: Inter, ui-sans-serif, system-ui, -apple-=
+system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: var(--bg); =
+color: var(--text); }
+
+:root[data-theme=3D"light"] { color-scheme: light; --bg: #f4f7fb; --bg-soft=
+: #ffffff; --panel: #ffffff; --panel-2: #eef4fa; --line: #d8e2ec; --line-st=
+rong: #c8d7e5; --text: #15202b; --muted: #4e6070; --faint: #6b7f91; --accen=
+t: #1769c2; --accent-2: #4f46e5; --accent-soft: #1769c2; --radius-sm: 12px;=
+ --radius: 18px; --radius-lg: 26px; --bg-overlay-start: rgba(255, 255, 255,=
+ .34); --bg-overlay-end: rgba(255, 255, 255, .58); --hero-orb-bg: radial-gr=
+adient(circle at 30% 22%, rgba(255, 255, 255, .9), transparent 32%), linear=
+-gradient(135deg, #e0f7ff 0%, #93dfff 46%, #38bdf8 100%); --hero-orb-color:=
+ #075985; --hero-orb-border: rgba(56, 189, 248, .58); --glass-shadow: 0 22p=
+x 58px rgba(23, 70, 116, .14); --glass-shadow-soft: 0 12px 32px rgba(23, 70=
+, 116, .1); }
+
+* { box-sizing: border-box; }
+
+body { margin: 0px; min-width: 320px; background: var(--bg); }
+
+button, input { font: inherit; }
+
+button { border: 0px; cursor: pointer; transition: transform 0.16s, border-=
+color 0.16s, background 0.16s, color 0.16s, box-shadow 0.16s, opacity 0.16s=
+; }
+
+button:disabled { cursor: not-allowed; opacity: 0.45; }
+
+.app-shell { position: relative; isolation: isolate; --sidebar-width: 290px=
+; display: block; min-height: 100vh; }
+
+.app-shell.sidebar-collapsed { --sidebar-width: 78px; }
+
+.app-shell.background-enabled { background: var(--bg); }
+
+.app-shell.background-enabled::before { content: ""; position: fixed; inset=
+: 0px; z-index: 0; pointer-events: none; background-image: radial-gradient(=
+circle at 72% 8%,color-mix(in srgb,var(--accent) 18%,transparent),transpare=
+nt 30%),radial-gradient(circle at 12% 18%,color-mix(in srgb,var(--accent-2)=
+ 18%,transparent),transparent 28%),linear-gradient(var(--bg-overlay-start),=
+var(--bg-overlay-end)),var(--learning-bg-image); background-position: cente=
+r center; background-size: cover; background-repeat: no-repeat; }
+
+.app-shell > .main { position: relative; z-index: 1; }
+
+.sidebar { position: fixed; top: 0px; left: 0px; bottom: 0px; z-index: 20; =
+width: var(--sidebar-width); height: 100vh; overflow: auto; padding: 20px; =
+background: var(--glass-bg-strong); border-right: 1px solid var(--glass-bor=
+der); transition: padding 0.2s; box-shadow: var(--glass-shadow-soft); backd=
+rop-filter: blur(20px) saturate(130%); }
+
+.sidebar.collapsed { padding: 18px 10px; }
+
+.sidebar.collapsed .brand { grid-template-columns: 1fr; }
+
+.sidebar.collapsed .brand-title, .sidebar.collapsed .nav-label, .sidebar.co=
+llapsed .nav-text { display: none; }
+
+.sidebar.collapsed .nav-item { justify-content: center; }
+
+.sidebar.collapsed .nav-number { min-width: 0px; }
+
+.brand, .nav-item { width: 100%; display: flex; gap: 10px; align-items: cen=
+ter; text-align: left; color: var(--text); background: transparent; border-=
+radius: var(--radius-sm); padding: 10px; }
+
+.brand { display: grid; grid-template-columns: 52px 1fr; margin-bottom: 18p=
+x; }
+
+.brand span { display: grid; place-items: center; min-height: 42px; border-=
+radius: var(--radius); background: linear-gradient(135deg,var(--accent),var=
+(--accent-2)); color: rgb(255, 255, 255); font-weight: 800; box-shadow: 0 0=
+ 24px color-mix(in srgb,var(--accent) 24%,transparent); }
+
+.brand-icon .icon { font-size: 1.7rem; }
+
+.nav-item:hover, .nav-item.active { background: var(--glass-bg-soft); }
+
+.nav-item:hover { transform: translate(2px); border-color: color-mix(in srg=
+b,var(--accent) 32%,transparent); box-shadow: inset 0 0 0 1px color-mix(in =
+srgb,var(--accent) 18%,transparent); }
+
+:root[data-theme=3D"light"] .nav-item:hover, :root[data-theme=3D"light"] .n=
+av-item.active { background: rgb(230, 240, 251); }
+
+.nav-number { min-width: 32px; color: var(--accent-soft); font-weight: 700;=
+ }
+
+.nav-label { margin: 20px 8px 8px; color: var(--faint); font-size: 0.78rem;=
+ text-transform: uppercase; letter-spacing: 0.08em; }
+
+.main { margin-left: var(--sidebar-width); min-width: 0px; transition: marg=
+in-left 0.2s; }
+
+.topbar { position: sticky; top: 0px; z-index: 10; display: flex; justify-c=
+ontent: flex-start; align-items: center; gap: 18px; padding: 20px 28px; bac=
+kground: color-mix(in srgb,var(--bg) 50%,transparent); border-bottom: 1px s=
+olid var(--glass-border); box-shadow: var(--glass-shadow-soft); backdrop-fi=
+lter: blur(18px) saturate(130%); }
+
+.topbar > div:first-of-type { flex: 1 1 auto; min-width: 0px; }
+
+.topbar-actions { display: flex; align-items: center; gap: 10px; margin-lef=
+t: auto; }
+
+.icon-button { display: inline-grid; place-items: center; width: 42px; heig=
+ht: 42px; flex: 0 0 auto; border-radius: var(--radius-sm); color: var(--tex=
+t); background: var(--glass-bg-soft); border: 1px solid var(--glass-border)=
+; backdrop-filter: blur(16px) saturate(125%); }
+
+.icon-button:hover { transform: translateY(-2px); border-color: var(--accen=
+t); color: var(--accent-soft); box-shadow: 0 0 18px color-mix(in srgb,var(-=
+-accent) 16%,transparent); }
+
+.topbar p, .hero p, .page-title p { margin: 0px 0px 4px; color: var(--accen=
+t-soft); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.78=
+rem; }
+
+.topbar h1, .page-title h2 { margin: 0px; }
+
+.search { display: flex; align-items: center; gap: 8px; min-width: 260px; p=
+adding: 9px 12px; border-radius: var(--radius-sm); background: var(--glass-=
+bg-soft); border: 1px solid var(--glass-border); backdrop-filter: blur(16px=
+) saturate(125%); }
+
+.search input { min-width: 0px; width: 100%; border: 0px; outline: 0px; col=
+or: inherit; background: transparent; }
+
+.home, .content { padding: 28px; }
+
+.hero { position: relative; display: grid; grid-template-columns: minmax(0p=
+x, 1fr) 210px; align-items: center; gap: 28px; overflow: hidden; padding: 3=
+4px; border-radius: var(--radius-lg); background: linear-gradient(135deg,co=
+lor-mix(in srgb,var(--accent) 16%,transparent),transparent 54%),var(--glass=
+-bg); border: 1px solid var(--glass-border); box-shadow: var(--glass-shadow=
+); backdrop-filter: blur(20px) saturate(135%); }
+
+.hero::after { content: ""; position: absolute; right: -86px; top: -92px; w=
+idth: 310px; height: 310px; border-radius: 999px; background: radial-gradie=
+nt(circle,color-mix(in srgb,var(--accent) 16%,transparent),transparent 68%)=
+; filter: blur(2px); pointer-events: none; }
+
+.hero-copy { position: relative; z-index: 1; }
+
+.hero h2 { max-width: 820px; margin: 0px 0px 10px; font-size: clamp(2rem, 4=
+vw, 4rem); line-height: 1.02; }
+
+.hero span { color: var(--muted); font-size: 1.06rem; }
+
+.hero-visual { position: relative; z-index: 1; display: grid; place-items: =
+center; min-height: 170px; }
+
+.hero-orb { position: relative; display: grid; place-items: center; width: =
+132px; height: 132px; border-radius: 34px; color: var(--hero-orb-color); ba=
+ckground: var(--hero-orb-bg); border: 1px solid var(--hero-orb-border); box=
+-shadow: inset 0 1px #ffffff2e,0 0 34px color-mix(in srgb,var(--accent) 24%=
+,transparent),0 24px 60px #00000047; backdrop-filter: blur(18px) saturate(1=
+30%); animation: 5.4s ease-in-out 0s infinite normal none running heroFloat=
+; }
+
+.hero-orb .icon { font-size: 3.4rem; filter: drop-shadow(0 0 14px color-mix=
+(in srgb,var(--accent) 48%,transparent)); }
+
+.hero-orb i { position: absolute; display: block; border-radius: 999px; bor=
+der: 1px solid color-mix(in srgb,var(--accent) 30%,transparent); pointer-ev=
+ents: none; }
+
+.hero-orb i:nth-of-type(1) { inset: -18px; animation: 5.4s ease-in-out 0s i=
+nfinite normal none running heroRingPulse; }
+
+.hero-orb i:nth-of-type(2) { width: 12px; height: 12px; right: 8px; top: 18=
+px; background: var(--accent); box-shadow: 0 0 18px color-mix(in srgb,var(-=
+-accent) 70%,transparent); animation: 4.4s ease-in-out 0s infinite normal n=
+one running heroDotFloat; }
+
+.hero-orb i:nth-of-type(3) { width: 9px; height: 9px; left: 18px; bottom: 1=
+6px; background: var(--accent-2); box-shadow: 0 0 18px color-mix(in srgb,va=
+r(--accent-2) 60%,transparent); animation: 4.8s ease-in-out 0s infinite rev=
+erse none running heroDotFloat; }
+
+@keyframes heroFloat {=20
+  0%, 100% { transform: translateY(0px) rotate(-2deg); }
+  50% { transform: translateY(-12px) rotate(2deg); }
+}
+
+@keyframes heroRingPulse {=20
+  0%, 100% { opacity: 0.4; transform: scale(0.96); }
+  50% { opacity: 0.72; transform: scale(1.04); }
+}
+
+@keyframes heroDotFloat {=20
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+}
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260p=
+x, 1fr)); gap: 14px; margin-top: 22px; }
+
+.card { min-height: 180px; padding: 20px; border-radius: var(--radius-lg); =
+background: var(--glass-bg); border: 1px solid var(--glass-border); box-sha=
+dow: var(--glass-shadow-soft); backdrop-filter: blur(18px) saturate(130%); =
+cursor: pointer; transform: translateY(0px); transition: transform 0.18s, b=
+order-color 0.18s, box-shadow 0.18s, background 0.18s; }
+
+.card:hover { border-color: var(--accent); transform: translateY(-4px); bac=
+kground: linear-gradient(135deg,color-mix(in srgb,var(--accent) 9%,transpar=
+ent),transparent 62%),var(--glass-bg-strong); box-shadow: var(--glass-shado=
+w),0 0 30px color-mix(in srgb,var(--accent) 13%,transparent); }
+
+.card span, .card small { color: var(--accent-soft); font-weight: 700; }
+
+.card h3 { margin: 18px 0px 8px; }
+
+.card p { color: var(--muted); }
+
+.page-title { display: flex; justify-content: space-between; align-items: f=
+lex-start; gap: 16px; min-height: 112px; margin-bottom: 10px; padding-top: =
+8px; }
+
+.page-title h2 { max-width: 980px; font-size: clamp(2.35rem, 5vw, 4.45rem);=
+ line-height: 0.98; letter-spacing: -0.06em; }
+
+.page-title span { display: block; margin-top: 14px; color: var(--muted); f=
+ont-size: 1.05rem; }
+
+.meeting-mode-row { display: flex; justify-content: flex-end; margin: 0px 0=
+px 18px; }
+
+.segmented, .slide-tabs, .reader-nav { display: flex; gap: 8px; align-items=
+: center; flex-wrap: wrap; }
+
+.segmented button, .slide-tabs button, .reader-nav button { display: inline=
+-flex; gap: 8px; align-items: center; padding: 10px 14px; border-radius: va=
+r(--radius-sm); color: var(--text); background: var(--glass-bg-soft); borde=
+r: 1px solid var(--glass-border); backdrop-filter: blur(14px) saturate(125%=
+); }
+
+.segmented button:hover:not(:disabled), .reader-nav button:hover:not(:disab=
+led), .image-toolbar button:hover:not(:disabled) { transform: translateY(-2=
+px); border-color: color-mix(in srgb,var(--accent) 58%,#ffffff 6%); color: =
+var(--accent-soft); background: linear-gradient(135deg,color-mix(in srgb,va=
+r(--accent) 12%,transparent),transparent 68%),var(--glass-bg-soft); box-sha=
+dow: 0 0 18px color-mix(in srgb,var(--accent) 16%,transparent); }
+
+.segmented button:active:not(:disabled), .reader-nav button:active:not(:dis=
+abled), .image-toolbar button:active:not(:disabled), .icon-button:active:no=
+t(:disabled) { transform: translateY(0px); }
+
+.segmented .selected, .slide-tabs .active { background: linear-gradient(135=
+deg, rgb(18, 62, 168), rgb(10, 42, 103) 44%, rgb(6, 26, 63)); border-color:=
+ color-mix(in srgb,var(--accent) 72%,#ffffff 8%); color: rgb(238, 250, 255)=
+; text-shadow: rgba(0, 0, 0, 0.42) 0px 1px 10px; box-shadow: inset 0 1px #f=
+fffff29,0 0 24px color-mix(in srgb,var(--accent) 26%,transparent); }
+
+.reader-tab-header { display: flex; align-items: center; justify-content: f=
+lex-start; gap: 14px; flex-wrap: wrap; margin: 0px 0px 22px; padding: 0px 0=
+px 18px; background: transparent; border-bottom: 1px solid var(--glass-bord=
+er); }
+
+.content-mode-toggle, .slide-tabs { padding: 4px; border-radius: var(--radi=
+us); background: color-mix(in srgb,var(--bg) 36%,transparent); border: 1px =
+solid color-mix(in srgb,var(--glass-border) 58%,transparent); }
+
+.meeting-mode-toggle { display: inline-flex; flex: 0 0 auto; flex-wrap: now=
+rap; width: max-content; white-space: nowrap; box-shadow: 0 0 24px color-mi=
+x(in srgb,var(--accent) 14%,transparent); }
+
+.meeting-mode-toggle button { flex: 0 0 auto; }
+
+.slide-tabs { width: 100%; justify-content: flex-start; gap: 14px; padding:=
+ 0px; background: transparent; border: 0px; border-radius: 0px; }
+
+.slide-tabs button { position: relative; padding: 12px 14px; color: var(--m=
+uted); background: transparent; border-color: transparent; box-shadow: none=
+; }
+
+.slide-tabs button:hover:not(:disabled) { transform: translateY(-2px); colo=
+r: var(--accent-soft); background: color-mix(in srgb,var(--accent) 8%,trans=
+parent); border-color: color-mix(in srgb,var(--accent) 22%,transparent); bo=
+x-shadow: 0 0 18px color-mix(in srgb,var(--accent) 11%,transparent); }
+
+.slide-tabs button:hover:not(:disabled)::before { content: ""; position: ab=
+solute; left: 12px; right: 12px; bottom: -19px; height: 2px; border-radius:=
+ 999px; background: color-mix(in srgb,var(--accent) 46%,transparent); }
+
+.slide-tabs .active { color: var(--accent-soft); background: transparent; b=
+order-color: transparent; box-shadow: none; }
+
+.slide-tabs .active::after { content: ""; position: absolute; left: 10px; r=
+ight: 10px; bottom: -19px; height: 2px; border-radius: 999px; background: v=
+ar(--accent); box-shadow: 0 0 14px color-mix(in srgb,var(--accent) 70%,tran=
+sparent); }
+
+.reader-layout { display: grid; grid-template-columns: 185px minmax(0px, 1f=
+r); gap: 36px; }
+
+.outline { position: sticky; top: 94px; align-self: start; max-height: calc=
+(-116px + 100vh); overflow: auto; padding: 14px; border-radius: var(--radiu=
+s); background: var(--glass-bg); border: 1px solid var(--glass-border); box=
+-shadow: var(--glass-shadow-soft); backdrop-filter: blur(18px) saturate(130=
+%); }
+
+.outline-title { display: flex; align-items: center; gap: 8px; color: var(-=
+-accent-soft); margin-bottom: 10px; font-weight: 800; font-size: 0.78rem; t=
+ext-transform: uppercase; letter-spacing: 0.14em; }
+
+.outline a, .slide-list button { display: block; width: 100%; color: var(--=
+text); text-decoration: none; padding: 9px 10px; border-radius: var(--radiu=
+s-sm); background: transparent; text-align: left; }
+
+.slide-list button { display: grid; grid-template-columns: 30px 1fr; gap: 6=
+px; align-items: center; font-size: 0.86rem; }
+
+.slide-list button span { color: var(--accent-soft); font-weight: 900; }
+
+.slide-list button b { overflow: hidden; color: var(--muted); font-weight: =
+600; text-overflow: ellipsis; white-space: nowrap; }
+
+.outline a:hover, .slide-list button:hover, .slide-list button.active { bac=
+kground: var(--glass-bg-soft); }
+
+.outline a:hover, .slide-list button:hover { transform: translate(2px); col=
+or: var(--accent-soft); box-shadow: inset 0 0 0 1px color-mix(in srgb,var(-=
+-accent) 15%,transparent); }
+
+.slide-list button.active b { color: var(--accent-soft); }
+
+:root[data-theme=3D"light"] .outline a:hover, :root[data-theme=3D"light"] .=
+slide-list button:hover, :root[data-theme=3D"light"] .slide-list button.act=
+ive { background: rgb(230, 240, 251); }
+
+.reader { min-width: 0px; padding: 26px; border-radius: var(--radius-lg); b=
+ackground: var(--glass-bg-strong); border: 1px solid var(--glass-border); b=
+ox-shadow: var(--glass-shadow); backdrop-filter: blur(20px) saturate(130%);=
+ }
+
+.reader-toolbar { display: flex; justify-content: space-between; gap: 12px;=
+ align-items: center; flex-wrap: wrap; margin-bottom: 22px; padding: 8px; b=
+order-radius: var(--radius); background: color-mix(in srgb,var(--bg) 28%,tr=
+ansparent); border: 1px solid color-mix(in srgb,var(--glass-border) 72%,tra=
+nsparent); }
+
+.slide-counter { color: var(--faint); font-size: 0.92rem; }
+
+.markdown { min-width: 0px; padding: 26px; border-radius: var(--radius-lg);=
+ background: var(--glass-bg-strong); border: 1px solid var(--glass-border);=
+ box-shadow: var(--glass-shadow); backdrop-filter: blur(20px) saturate(130%=
+); line-height: 1.72; }
+
+.reader > .markdown { padding: 0px; border: 0px; border-radius: 0px; backgr=
+ound: transparent; box-shadow: none; backdrop-filter: none; }
+
+.markdown h1, .markdown h2, .markdown h3 { line-height: 1.2; }
+
+.markdown img, .image-viewer img { max-width: 100%; border-radius: var(--ra=
+dius); }
+
+.markdown pre { overflow: auto; padding: 16px; border-radius: var(--radius)=
+; background: color-mix(in srgb,var(--bg) 88%,#000 12%); }
+
+.markdown table { width: 100%; border-collapse: collapse; }
+
+.markdown th, .markdown td { border: 1px solid var(--line-strong); padding:=
+ 8px; vertical-align: top; }
+
+.image-viewer { display: block; min-height: 420px; padding: 14px; border-ra=
+dius: var(--radius); background: radial-gradient(circle at top right,color-=
+mix(in srgb,var(--accent) 12%,transparent),transparent 35%),color-mix(in sr=
+gb,var(--bg) 54%,transparent); border: 1px solid var(--glass-border); box-s=
+hadow: var(--glass-shadow); backdrop-filter: blur(20px) saturate(130%); }
+
+.image-viewer img { display: block; max-height: 72vh; margin: 0px auto; }
+
+.image-toolbar { display: flex; justify-content: space-between; align-items=
+: center; gap: 12px; margin-bottom: 12px; color: var(--muted); }
+
+.image-toolbar button { display: inline-flex; align-items: center; gap: 8px=
+; padding: 9px 12px; border-radius: var(--radius-sm); color: var(--text); b=
+ackground: var(--glass-bg-soft); border: 1px solid var(--glass-border); bac=
+kdrop-filter: blur(14px) saturate(125%); }
+
+.image-viewport { position: relative; display: grid; place-items: center; m=
+in-height: 420px; border-radius: var(--radius); overflow: hidden; backgroun=
+d: rgb(2, 7, 20); }
+
+:root[data-theme=3D"light"] .image-viewport { background: rgb(238, 244, 250=
+); }
+
+.image-nav { position: absolute; top: 50%; transform: translateY(-50%); dis=
+play: grid; place-items: center; width: 48px; height: 76px; border-radius: =
+var(--radius); color: var(--text); background: color-mix(in srgb,var(--bg) =
+54%,transparent); border: 1px solid var(--glass-border); backdrop-filter: b=
+lur(16px) saturate(130%); }
+
+.image-nav.prev { left: 14px; }
+
+.image-nav.next { right: 14px; }
+
+.image-nav:hover:not(:disabled) { transform: translateY(-50%) scale(1.04); =
+color: rgb(255, 255, 255); background: linear-gradient(135deg,var(--accent)=
+,var(--accent-2)); box-shadow: 0 0 24px color-mix(in srgb,var(--accent) 24%=
+,transparent); }
+
+.image-nav:active:not(:disabled) { transform: translateY(-50%) scale(0.98);=
+ }
+
+.image-help { margin: 10px 0px 0px; color: var(--faint); font-size: 0.9rem;=
+ }
+
+.image-viewer.fullscreen, .image-viewer:fullscreen { width: 100vw; height: =
+100vh; padding: 18px; border-radius: 0px; background: rgb(2, 7, 20); }
+
+.image-viewer.fullscreen .image-viewport, .image-viewer:fullscreen .image-v=
+iewport { height: calc(-88px + 100vh); }
+
+.image-viewer.fullscreen img, .image-viewer:fullscreen img { max-width: 100=
+%; max-height: 100%; }
+
+.reader-nav { justify-content: space-between; margin-top: 24px; padding-top=
+: 20px; border-top: 1px solid var(--glass-border); }
+
+.reader-nav button:last-child { color: rgb(238, 250, 255); background: line=
+ar-gradient(135deg, rgb(15, 75, 196), rgb(10, 47, 122) 48%, rgb(4, 27, 72))=
+; border-color: color-mix(in srgb,var(--accent) 72%,#ffffff 8%); text-shado=
+w: rgba(0, 0, 0, 0.42) 0px 1px 10px; font-weight: 800; box-shadow: inset 0 =
+1px #ffffff29,0 0 22px color-mix(in srgb,var(--accent) 24%,transparent); }
+
+.demo { margin-top: 18px; border: 1px solid var(--glass-border); border-rad=
+ius: var(--radius); overflow: hidden; background: var(--glass-bg-strong); b=
+ox-shadow: var(--glass-shadow-soft); backdrop-filter: blur(18px) saturate(1=
+30%); }
+
+.demo div { display: flex; justify-content: space-between; gap: 12px; paddi=
+ng: 12px; border-bottom: 1px solid var(--glass-border); }
+
+.demo a { color: var(--accent-soft); }
+
+.demo iframe { width: 100%; min-height: 520px; border: 0px; background: rgb=
+(255, 255, 255); }
+
+.icon { font-size: 1.2em; line-height: 1; }
+
+@media (max-width: 900px) {
+  .app-shell { --sidebar-width: 290px; --compact-topbar-height: 84px; displ=
+ay: block; }
+  .app-shell.sidebar-collapsed { --sidebar-width: 290px; }
+  .topbar { min-height: var(--compact-topbar-height); align-items: center; =
+flex-flow: row; gap: 12px; padding: 14px 20px; z-index: 40; }
+  .topbar > div:first-of-type { flex: 0 1 auto; }
+  .topbar p { display: none; }
+  .topbar h1 { max-width: 28vw; overflow: hidden; font-size: 0.95rem; line-=
+height: 1.15; text-overflow: ellipsis; white-space: nowrap; }
+  .topbar-actions { flex: 1 1 220px; min-width: 0px; width: auto; margin-le=
+ft: auto; }
+  .sidebar { position: fixed; top: var(--compact-topbar-height); left: 0px;=
+ bottom: 0px; z-index: 30; width: min(var(--sidebar-width),calc(100vw - 56p=
+x)); height: calc(100vh - var(--compact-topbar-height)); max-height: none; =
+padding: 20px; transform: translate(0px); transition: transform 0.24s; }
+  .sidebar.collapsed { width: min(var(--sidebar-width),calc(100vw - 56px));=
+ padding: 20px; transform: translate(-100%); }
+  .sidebar.collapsed .brand { grid-template-columns: 52px 1fr; }
+  .sidebar.collapsed .brand-title, .sidebar.collapsed .nav-label, .sidebar.=
+collapsed .nav-text { display: inline; }
+  .sidebar.collapsed .nav-item { justify-content: flex-start; }
+  .sidebar.collapsed .nav-number { min-width: 32px; }
+  .outline { position: static; height: auto; max-height: none; }
+  .main { margin-left: 0px; }
+  .reader-layout, .hero { grid-template-columns: 1fr; }
+  .hero-visual { justify-content: start; min-height: 116px; }
+  .hero-orb { width: 96px; height: 96px; border-radius: 26px; }
+  .hero-orb .icon { font-size: 2.55rem; }
+  .page-title { align-items: stretch; flex-direction: column; }
+  .meeting-mode-row { justify-content: flex-start; overflow-x: auto; paddin=
+g-bottom: 4px; }
+  .search { flex: 1 1 150px; min-width: 0px; width: auto; }
+}
+
+@media (max-width: 560px) {
+  .topbar > div:first-of-type { display: none; }
+}
+------MultipartBoundary--9pmeuc7mrKiknLSJAPszqho4jtOOFpOjFm8cCB03mW----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,500,0,0&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Material Symbols Rounded"; font-style: normal; f=
+ont-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+materialsymbolsrounded/v384/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUS=
+VOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rLWlXxc.woff2") fo=
+rmat("woff2"); }
+
+.material-symbols-rounded { font-family: "Material Symbols Rounded"; font-w=
+eight: normal; font-style: normal; font-size: 24px; line-height: 1; letter-=
+spacing: normal; text-transform: none; display: inline-block; white-space: =
+nowrap; overflow-wrap: normal; direction: ltr; font-feature-settings: "liga=
+"; -webkit-font-smoothing: antialiased; }
+------MultipartBoundary--9pmeuc7mrKiknLSJAPszqho4jtOOFpOjFm8cCB03mW------
